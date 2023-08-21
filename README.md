@@ -33,8 +33,9 @@ https://its.1c.ru/db/pubdevguide83#content:643:hdoc </br>
 -план обмена </br>
 https://its.1c.ru/db/pubdevguide83#content:646:hdoc </br>
 
+### Практическое пособие разработчика. Книга на its.</br>
+https://its.1c.ru/db/pubdevguide83</br>
 
-</br>
 </br>
 </br>
 </br>
