@@ -9,7 +9,7 @@ https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 -мет.мат. разработчикам </br>
 https://its.1c.ru/db/metod8dev#browse:13:-1:3199 </br>
 -стандарты разработки </br>
-https://its.1c.ru/db/aboutitsnew </br>
+https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3258:3268 </br>
 
 //СОБЫТИЯ </br>
 -документы </br>
