@@ -6,6 +6,8 @@ https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 
 ## 1С
 ### -its
+-руководство разработчика  </br>
+https://its.1c.ru/db/v8323doc#browse:13:-1:5 </br>
 -мет.мат. разработчикам </br>
 https://its.1c.ru/db/metod8dev#browse:13:-1:3199 </br>
 -стандарты разработки </br>
