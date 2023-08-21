@@ -12,7 +12,8 @@ https://its.1c.ru/db/metod8dev#browse:13:-1:3199 </br>
 https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3258:3268 </br>
 -технологический журнал </br>
 https://its.1c.ru/db/v8323doc#bookmark:adm:TI000000446 </br>
-</br>
+-журнал регистрации </br>
+https://its.1c.ru/db/v8323doc#bookmark:adm:TI000000145 </br>
 
 //СОБЫТИЯ </br>
 -документы </br>
