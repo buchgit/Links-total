@@ -19,6 +19,8 @@ https://its.1c.ru/db/v8323doc#bookmark:dev:TI000000783 </br>
 https://its.1c.ru/db/v8323doc#bookmark:adm:TI000000446 </br>
 -журнал регистрации </br>
 https://its.1c.ru/db/v8323doc#bookmark:adm:TI000000145 </br>
+-язык запросов </br>
+https://its.1c.ru/db/v8323doc#bookmark:dev:TI000000455 </br>
 
 //СОБЫТИЯ </br>
 -документы </br>
