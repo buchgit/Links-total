@@ -10,6 +10,9 @@ https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 https://its.1c.ru/db/metod8dev#browse:13:-1:3199 </br>
 -стандарты разработки </br>
 https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3258:3268 </br>
+-технологический журнал </br>
+https://its.1c.ru/db/v8323doc#bookmark:adm:TI000000446 </br>
+</br>
 
 //СОБЫТИЯ </br>
 -документы </br>
