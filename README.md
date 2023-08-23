@@ -1,10 +1,10 @@
 # Links-total
 
-## Plant uml </br>
+## $PLANT UML 
 https://plantuml.com/ru/sequence-diagram </br>
 https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 
-## 1С
+## $1С
 ### -ssl
 -регл.задания </br>
 https://infostart.ru/1c/articles/1663091/  </br>
