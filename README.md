@@ -4,7 +4,7 @@
 https://plantuml.com/ru/sequence-diagram </br>
 https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 
-## $1С
+## §1С
 ### -ssl
 -регл.задания </br>
 https://infostart.ru/1c/articles/1663091/  </br>
@@ -73,9 +73,13 @@ https://its.1c.ru/db/pubdevguide83#content:646:hdoc </br>
 ### Практическое пособие разработчика. Книга на its.</br>
 https://its.1c.ru/db/pubdevguide83</br>
 
-## KOTLIN
+## §KOTLIN
 
-## ANDROID
+## §ANDROID
+
+## §JAVA
+
+## §SPRING
 </br>
 </br>
 </br>
