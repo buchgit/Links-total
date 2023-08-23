@@ -73,6 +73,9 @@ https://its.1c.ru/db/pubdevguide83#content:646:hdoc </br>
 ### Практическое пособие разработчика. Книга на its.</br>
 https://its.1c.ru/db/pubdevguide83</br>
 
+## KOTLIN
+
+## ANDROID
 </br>
 </br>
 </br>
