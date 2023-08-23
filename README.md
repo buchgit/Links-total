@@ -1,6 +1,6 @@
 # Links-total
 
-## $PLANT UML 
+## §PLANT UML 
 https://plantuml.com/ru/sequence-diagram </br>
 https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 
