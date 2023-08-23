@@ -5,7 +5,7 @@ https://plantuml.com/ru/sequence-diagram </br>
 https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 
 ## 1С
-### -БСП
+### -ssl
 -регл.задания </br>
 https://infostart.ru/1c/articles/1663091/  </br>
 -многопоточка </br>
@@ -45,7 +45,7 @@ https://its.1c.ru/db/v8323doc#bookmark:adm:TI000000145 </br>
 -язык запросов </br>
 https://its.1c.ru/db/v8323doc#bookmark:dev:TI000000455 </br>
 
-//СОБЫТИЯ </br>
+### -events </br>
 -документы </br>
 https://its.1c.ru/db/pubdevguide83/content/618/hdoc </br>
 -справочники </br>
