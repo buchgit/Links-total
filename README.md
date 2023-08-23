@@ -5,6 +5,29 @@ https://plantuml.com/ru/sequence-diagram </br>
 https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 
 ## 1С
+### -БСП
+-регл.задания </br>
+https://infostart.ru/1c/articles/1663091/  </br>
+-многопоточка </br>
+https://infostart.ru/1c/articles/1625217/ </br>
+-генерация штрихкодов </br>
+https://infostart.ru/1c/articles/1356920/ </br>
+-печать макета MS Word в любом документе </br>
+https://infostart.ru/1c/articles/1388478/ </br>
+-шаблоны сообщений пользователю </br>
+https://infostart.ru/1c/articles/1657664/ </br>
+-длительные операции </br>
+https://infostart.ru/1c/articles/1260411/ </br>
+https://infostart.ru/1c/articles/1318934/ </br>
+-асинхрон </br>
+https://infostart.ru/1c/tools/1318496/ </br>
+-журнал регистрации </br>
+https://infostart.ru/1c/articles/1548219/ </br>
+-оценка производительности </br>
+https://infostart.ru/1c/articles/1548219/ </br>
+</br>
+</br>
+
 ### -its
 -руководство разработчика  </br>
 https://its.1c.ru/db/v8323doc#browse:13:-1:5 </br>
