@@ -29,7 +29,7 @@ https://infostart.ru/1c/articles/1548219/ </br>
 </br>
 
 ### -its
--стандарты и методики разработок</br>
+-стандарты и методики разработки</br>
 https://its.1c.ru/db/v8std</br>
 -руководство разработчика  </br>
 https://its.1c.ru/db/v8323doc#browse:13:-1:5 </br>
