@@ -87,7 +87,11 @@ https://its.1c.ru/db/pubdevguide83</br>
 </br>
 </br>
 </br>
-      
+
+## §DOCKER
+
+//установка на Ubuntu скриптом
+https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script      
 
 
 
