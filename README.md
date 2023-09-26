@@ -75,6 +75,8 @@ https://its.1c.ru/db/pubdevguide83#content:643:hdoc </br>
 https://its.1c.ru/db/pubdevguide83#content:646:hdoc </br>
 
 ### Vanessa-Automation
+-домашняя страничка</br>
+https://pr-mex.github.io/vanessa-automation/dev/</br>
 -мануал, видосы от разработчиков</br>
 https://github.com/Pr-Mex/vanessa-automation/blob/develop/docs/MainHelp/index.MD</br>
 
