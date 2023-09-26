@@ -74,6 +74,10 @@ https://its.1c.ru/db/pubdevguide83#content:643:hdoc </br>
 -план обмена </br>
 https://its.1c.ru/db/pubdevguide83#content:646:hdoc </br>
 
+### Vanessa-Automation
+-мануал, видосы от разработчиков</br>
+https://github.com/Pr-Mex/vanessa-automation/blob/develop/docs/MainHelp/index.MD</br>
+
 ### Практическое пособие разработчика. Книга на its.</br>
 https://its.1c.ru/db/pubdevguide83</br>
 
