@@ -46,6 +46,8 @@ https://its.1c.ru/db/v8323doc#bookmark:adm:TI000000446 </br>
 https://its.1c.ru/db/v8323doc#bookmark:adm:TI000000145 </br>
 -язык запросов </br>
 https://its.1c.ru/db/v8323doc#bookmark:dev:TI000000455 </br>
+-синхронизация </br>
+https://its.1c.ru/db/metod81#content:5946:hdoc</br>
 
 ### -events </br>
 -документы </br>
@@ -82,16 +84,10 @@ https://its.1c.ru/db/pubdevguide83</br>
 ## §JAVA
 
 ## §SPRING
-</br>
-</br>
-</br>
-</br>
-</br>
 
 ## §DOCKER
-
-//установка на Ubuntu скриптом
-https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script      
+//установка на Ubuntu скриптом</br>
+https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script</br>      
 
 
 
