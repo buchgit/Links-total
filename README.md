@@ -5,7 +5,7 @@ https://plantuml.com/ru/sequence-diagram </br>
 https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 
 ## §1С
-### -ssl
+### - ssl
 - регл.задания </br>
 https://infostart.ru/1c/articles/1663091/  </br>
 - многопоточка </br>
