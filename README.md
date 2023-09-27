@@ -80,6 +80,10 @@ https://pr-mex.github.io/vanessa-automation/dev/</br>
 -мануал, видосы от разработчиков</br>
 https://github.com/Pr-Mex/vanessa-automation/blob/develop/docs/MainHelp/index.MD</br>
 
+### Разное от 1с
+- схемы, форматы обменов</br>
+https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/standarty-i-formaty/standart-vzaimodeystviya-po-tekhnologii-directbank/opisanie-standarta-vzaimodeystviya-mezhdu-1s-predpriyatie-8-i-bankovskim-servisom/skhemy-dannykh/</br>
+
 ### Практическое пособие разработчика. Книга на its.</br>
 https://its.1c.ru/db/pubdevguide83</br>
 
