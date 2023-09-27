@@ -37,7 +37,6 @@ https://its.1c.ru/db/v8323doc#browse:13:-1:5 </br>
 https://its.1c.ru/db/metod8dev#browse:13:-1:3199 </br>
 - стандарты разработки </br>
 https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3258:3268 </br>
-</br>
 - интеграция с внешними системами (web,http,odata,...) </br>
 https://its.1c.ru/db/v8323doc#bookmark:dev:TI000000783 </br>
 - технологический журнал </br>
