@@ -47,6 +47,8 @@ https://its.1c.ru/db/v8323doc#bookmark:adm:TI000000145 </br>
 https://its.1c.ru/db/v8323doc#bookmark:dev:TI000000455 </br>
 - синхронизация </br>
 https://its.1c.ru/db/metod81#content:5946:hdoc</br>
+- работа с различными форматами данных
+- https://its.1c.ru/db/v8324doc#bookmark:dev:TI000000771
 
 ### -events 
 - документы </br>
