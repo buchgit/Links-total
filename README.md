@@ -88,6 +88,10 @@ https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/standarty-i-formaty/st
 ### Практическое пособие разработчика. Книга на its.</br>
 https://its.1c.ru/db/pubdevguide83</br>
 
+## §JMeter
+- хабр. Как использовать JMeter для нагрузочного тестирования и тестирования производительности </br>
+https://habr.com/ru/companies/otus/articles/746504/
+
 ## §KOTLIN
 
 ## §ANDROID
