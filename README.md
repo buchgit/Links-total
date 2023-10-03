@@ -86,7 +86,7 @@ https://github.com/Pr-Mex/vanessa-automation/blob/develop/docs/MainHelp/index.MD
 https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/standarty-i-formaty/standart-vzaimodeystviya-po-tekhnologii-directbank/opisanie-standarta-vzaimodeystviya-mezhdu-1s-predpriyatie-8-i-bankovskim-servisom/skhemy-dannykh/</br>
 
 - синтаксис </br>
-https://www.about1c.ru/v83/language-reference/collections/value-table/method-group-by
+https://www.about1c.ru/v83/category/language-reference/collections
 
 ### Практическое пособие разработчика. Книга на its.</br>
 https://its.1c.ru/db/pubdevguide83</br>
