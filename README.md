@@ -75,6 +75,10 @@ https://its.1c.ru/db/pubdevguide83#content:643:hdoc </br>
 - план обмена </br>
 https://its.1c.ru/db/pubdevguide83#content:646:hdoc </br>
 
+### -EDT
+- plugins for EDT by IntelliJ Idea </br>
+https://skycorvette.com/knowledges/dccfd1f4-ef50-4242-8355-d62fb3675e13/
+
 ### Vanessa-Automation
 - домашняя страничка</br>
 https://pr-mex.github.io/vanessa-automation/dev/</br>
