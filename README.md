@@ -78,6 +78,8 @@ https://its.1c.ru/db/pubdevguide83#content:646:hdoc </br>
 ## §EDT
 - plugins for EDT by IntelliJ Idea </br>
 https://skycorvette.com/knowledges/dccfd1f4-ef50-4242-8355-d62fb3675e13/
+- разрботка планинов, мануал от edt.1c.ru </br>
+  https://edt.1c.ru/dev/ru/
 
 ### Vanessa-Automation
 - домашняя страничка</br>
