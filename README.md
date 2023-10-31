@@ -106,6 +106,8 @@ https://www.about1c.ru/v83/category/language-reference/collections
 
 ### Практическое пособие разработчика. Книга на its.</br>
 https://its.1c.ru/db/pubdevguide83</br>
+### Практическое пособие разработчика. Книга на its.</br>
+https://its.1c.ru/db/pubextensions
 
 ## §JMeter
 - хабр. Как использовать JMeter для нагрузочного тестирования и тестирования производительности </br>
