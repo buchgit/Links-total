@@ -81,7 +81,7 @@ https://its.1c.ru/db/pubdevguide83#content:643:hdoc </br>
 - план обмена </br>
 https://its.1c.ru/db/pubdevguide83#content:646:hdoc </br>
 
-## §EDT
+### §EDT
 - plugins for EDT by IntelliJ Idea </br>
 https://skycorvette.com/knowledges/dccfd1f4-ef50-4242-8355-d62fb3675e13/
 - разрботка планинов, мануал от edt.1c.ru </br>
@@ -105,9 +105,9 @@ https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/standarty-i-formaty/st
 https://www.about1c.ru/v83/category/language-reference/collections
 
 ### Книги на на its.</br>
-## Практическое пособие разработчика. </br>
+#### Практическое пособие разработчика. </br>
 https://its.1c.ru/db/pubdevguide83</br>
-## Е. Ю. Хрусталева. Расширения конфигураций. Адаптация прикладных решений с сохранением поддержки в облаках и на земле</br>
+#### Е. Ю. Хрусталева. Расширения конфигураций. Адаптация прикладных решений с сохранением поддержки в облаках и на земле</br>
 https://its.1c.ru/db/pubextensions
 
 ## §JMeter
