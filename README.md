@@ -124,7 +124,9 @@ https://habr.com/ru/companies/otus/articles/746504/
 
 ## §DOCKER
 - установка на Ubuntu скриптом</br>
-https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script</br>      
+https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script</br>
+- мой репозиторий</br>
+how to install     
 
 
 
