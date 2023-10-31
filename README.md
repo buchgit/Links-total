@@ -105,9 +105,9 @@ https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/standarty-i-formaty/st
 https://www.about1c.ru/v83/category/language-reference/collections
 
 ### Книги на на its.</br>
-#### Практическое пособие разработчика. </br>
+- Практическое пособие разработчика. </br>
 https://its.1c.ru/db/pubdevguide83</br>
-#### Е. Ю. Хрусталева. Расширения конфигураций. Адаптация прикладных решений с сохранением поддержки в облаках и на земле</br>
+- Е. Ю. Хрусталева. Расширения конфигураций. Адаптация прикладных решений с сохранением поддержки в облаках и на земле</br>
 https://its.1c.ru/db/pubextensions
 
 ## §JMeter
