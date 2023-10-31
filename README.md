@@ -123,10 +123,11 @@ https://habr.com/ru/companies/otus/articles/746504/
 ## §SPRING
 
 ## §DOCKER
-- установка на Ubuntu скриптом</br>
+- установка на Ubuntu скриптом </br>
 https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script</br>
-- мой репозиторий</br>
-how to install     
+### Мой репозиторий</br>
+- how to install </br>
+https://github.com/buchgit/Docker/blob/master/how%20to%20install    
 
 
 
