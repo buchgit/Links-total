@@ -6,6 +6,8 @@ https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 
 ## §1С
 ### - ssl
+- от 1С</br>
+https://its.1c.ru/db/bsp319doc
 - регл.задания </br>
 https://infostart.ru/1c/articles/1663091/  </br>
 - многопоточка </br>
@@ -49,6 +51,8 @@ https://its.1c.ru/db/v8323doc#bookmark:dev:TI000000455 </br>
 https://its.1c.ru/db/metod81#content:5946:hdoc</br>
 - работа с различными форматами данных
 - https://its.1c.ru/db/v8324doc#bookmark:dev:TI000000771
+- БСП (SSL)</br>
+https://its.1c.ru/db/bsp319doc
 
 ### -events 
 - документы </br>
