@@ -5,7 +5,9 @@ https://plantuml.com/ru/sequence-diagram </br>
 https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
 
 ## §1С
-### - ssl
+### - БСП (ssl)
+- шпаргалка по методам </br>
+https://koder.by/bsp_shpargalka.php
 - от 1С</br>
 https://its.1c.ru/db/bsp319doc
 - регл.задания </br>
