@@ -131,7 +131,7 @@ https://github.com/buchgit/Docker/blob/master/how%20to%20install
 
 ## §Biotime
 - api  </br>
-file:///C:/Users/User/Downloads/BioTime%208.5%20API%20User%20Manual.pdf
+https://github.com/buchgit/1C-Programming/blob/master/BioTime/BioTime%208.5%20API%20User%20Manual.pdf
 - онлайн мануалы  </br>
 - https://www.biotime.ru/support/biolib.php
 
