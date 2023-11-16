@@ -130,6 +130,8 @@ https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-scr
 https://github.com/buchgit/Docker/blob/master/how%20to%20install
 
 ## §Biotime
+- swagger  </br>
+http://10.40.10.30:9000/swagger/ui/index#/
 - api  </br>
 https://github.com/buchgit/1C-Programming/blob/master/BioTime/BioTime%208.5%20API%20User%20Manual.pdf
 - онлайн мануалы  </br>
