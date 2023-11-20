@@ -136,7 +136,9 @@ http://demo.biotime.online:9000/swagger/ui/index
 - api  </br>
 https://github.com/buchgit/1C-Programming/blob/master/BioTime/BioTime%208.5%20API%20User%20Manual.pdf
 - онлайн мануалы  </br>
-- https://www.biotime.ru/support/biolib.php
+https://www.biotime.ru/support/biolib.php
+- админка </br>
+http://10.40.10.30:5001/Account/Login/?ReturnUrl=%2FOverview%2FQuickReview
 
 
 
