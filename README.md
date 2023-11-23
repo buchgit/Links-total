@@ -1,5 +1,8 @@
 # Links-total
 
+- day meeting </br>
+https://meet.google.com/xjg-hyqs-fnn
+
 ## §PLANT UML 
 https://plantuml.com/ru/sequence-diagram </br>
 https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf
