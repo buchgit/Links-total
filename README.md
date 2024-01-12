@@ -61,6 +61,9 @@ https://its.1c.ru/db/metod81#content:5946:hdoc</br>
 - БСП (SSL)</br>
 https://its.1c.ru/db/bsp319doc
 
+- СКД
+https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3224:3226:3231
+
 ### -events 
 - документы </br>
 https://its.1c.ru/db/pubdevguide83/content/618/hdoc </br>
@@ -108,6 +111,7 @@ https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/standarty-i-formaty/st
 
 - синтаксис </br>
 https://www.about1c.ru/v83/category/language-reference/collections
+
 
 ### Книги на на its.</br>
 - Практическое пособие разработчика. </br>
