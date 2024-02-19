@@ -64,6 +64,10 @@ https://its.1c.ru/db/bsp319doc
 - СКД
 https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3224:3226:3231
 
+### РЛС
+- производительный режим
+https://infostart.ru/1c/articles/1656341/  </br>
+
 ### -events 
 - документы </br>
 https://its.1c.ru/db/pubdevguide83/content/618/hdoc </br>
