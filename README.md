@@ -156,7 +156,9 @@ http://10.40.10.30:5001/Account/Login/?ReturnUrl=%2FOverview%2FQuickReview
 ## §Bitrix
 - Создание входящего вебхука  </br>
 https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=99&LESSON_ID=8581  
-- Метод task.add  </br>
+
+- Метод task.item.add  </br>
+https://dev.1c-bitrix.ru/rest_help/tasks/task/item/add.php
 https://dev.1c-bitrix.ru/api_help/tasks/classes/ctasks/add.php
 - Создание задачи через Web-hook  </br>
 https://gitpro.ru/content/articles/512/
