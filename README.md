@@ -32,6 +32,12 @@ https://infostart.ru/1c/tools/1318496/ </br>
 https://infostart.ru/1c/articles/1548219/ </br>
 - оценка производительности </br>
 https://infostart.ru/1c/articles/1548219/ </br>
+- проведение документов по методике из БСП (1) </br>
+https://infostart.ru/1c/articles/1494836/ </br>
+- проведение документов по методике из БСП (2) </br>
+https://infostart.ru/1c/articles/1097936/ </br>
+- проведение документов по методике из БСП (3) </br>
+https://infostart.ru/1c/articles/1343740/ </br>
 </br>
 </br>
 
