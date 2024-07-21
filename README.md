@@ -184,7 +184,8 @@ https://forum.mista.ru/topic.php?id=879788
 https://core.telegram.org/bots/api  </br>
 - статья с примером на habr  </br>
 https://habr.com/ru/companies/otus/articles/741520/   </br>
-
+- статья с примером на infostart    </br>
+https://infostart.ru/1c/articles/819087/    </br>
 
 
 
