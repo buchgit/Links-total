@@ -186,6 +186,8 @@ https://core.telegram.org/bots/api  </br>
 https://habr.com/ru/companies/otus/articles/741520/   </br>
 - статья с примером на infostart    </br>
 https://infostart.ru/1c/articles/819087/    </br>
+- About Telegram bots  </br>
+https://core.telegram.org/bots  </br>
 
 
 
