@@ -179,6 +179,12 @@ https://gitpro.ru/content/articles/512/
 - 1c example_1 </br>
 https://forum.mista.ru/topic.php?id=879788
 
+## §Telegram
+- telegram bot API  </br>
+https://core.telegram.org/bots/api  </br>
+- статья с примером на habr  </br>
+https://habr.com/ru/companies/otus/articles/741520/   </br>
+
 
 
 
