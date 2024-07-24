@@ -12,6 +12,8 @@ https://www.youtube.com/watch?v=Zt3Bj1HMJ8g </br>
 https://graphviz.gitlab.io/download/ </br>
 -- c4-plantuml library </br>
 https://github.com/plantuml-stdlib/C4-PlantUML </br>
+-- примеры С4  </br>
+https://github.com/plantuml-stdlib/C4-PlantUML/blob/master/samples/C4CoreDiagrams.md  </br>
 
 ## §1С
 ### - БСП (ssl)
