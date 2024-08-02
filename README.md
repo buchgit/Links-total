@@ -79,16 +79,18 @@ https://its.1c.ru/db/bsp319doc
 https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3224:3226:3231
 
 ### РЛС
-- производительный режим 
+- производительный режим   </br>
 https://infostart.ru/1c/articles/1656341/  </br>
-- шаблоны рлс   
+- шаблоны рлс     </br>
 https://infostart.ru/1c/articles/995414/   </br>
-- пошагово несколько примеров
+- пошагово несколько примеров  </br>
 https://infostart.ru/1c/articles/1535498/ </br>
-- как юзать обработку УправлениеДоступом из БСП  
+- как юзать обработку УправлениеДоступом из БСП   </br> 
 https://infostart.ru/1c/articles/1594229/  </br>
-- как поженить типовой RLS и новый документ
-https://infostart.ru/1c/articles/1596660/
+- как поженить типовой RLS и новый документ  </br>
+https://infostart.ru/1c/articles/1596660/  </br>
+- разработка прав доступа (ИТС)  </br>
+https://its.1c.ru/db/bsp316doc#content:4:hdoc:issogl3_разработка_ограничений_прав_доступа   </br>
 
 
 
