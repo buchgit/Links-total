@@ -83,6 +83,15 @@ https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3224:3226:3231
 https://infostart.ru/1c/articles/1656341/  </br>
 - шаблоны рлс   </br>
 https://infostart.ru/1c/articles/995414/   </br>
+- пошагово несколько примеров
+https://infostart.ru/1c/articles/1535498/ </br>
+- как юзать обработку УправлениеДоступом из БСП  </br>
+https://infostart.ru/1c/articles/1594229/  </br>
+- как поженить типовой RLS и новый документ
+https://infostart.ru/1c/articles/1596660/
+
+
+
 
 ### -events 
 - документы </br>
