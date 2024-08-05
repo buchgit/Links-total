@@ -130,6 +130,10 @@ https://skycorvette.com/knowledges/dccfd1f4-ef50-4242-8355-d62fb3675e13/
 - 1C:Enterprise Development Tools API  </br>
  https://edt.1c.ru/dev/edt/2023.1/apidocs/index.html 
 
+### §ODATA 
+- мануал на infostart   </br>
+https://infostart.ru/1c/articles/1570140/    </br>
+
 ### Vanessa-Automation
 - домашняя страничка</br>
 https://pr-mex.github.io/vanessa-automation/dev/</br>
