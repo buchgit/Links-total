@@ -133,6 +133,8 @@ https://skycorvette.com/knowledges/dccfd1f4-ef50-4242-8355-d62fb3675e13/
 ### §ODATA 
 - мануал на infostart   </br>
 https://infostart.ru/1c/articles/1570140/    </br>
+- примеры с ИТС    </br>
+https://its.1c.ru/db/fresh#content:19956692:hdoc    </br>
 
 ### Vanessa-Automation
 - домашняя страничка</br>
