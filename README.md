@@ -91,7 +91,8 @@ https://infostart.ru/1c/articles/1594229/  </br>
 https://infostart.ru/1c/articles/1596660/  </br>
 - разработка прав доступа (ИТС)  </br>
 https://its.1c.ru/db/bsp316doc#content:4:hdoc:issogl3_разработка_ограничений_прав_доступа   </br>
-
+- РЛС в расширении  </br>
+https://its.1c.ru/db/v8313doc#bookmark:dev:TI000001848  </br>
 
 
 
