@@ -150,6 +150,8 @@ https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/standarty-i-formaty/st
 - синтаксис </br>
 https://www.about1c.ru/v83/category/language-reference/collections
 
+- план запроса </br>
+https://infostart.ru/1c/articles/877736/
 
 ### Книги на на its.</br>
 - Практическое пособие разработчика. </br>
