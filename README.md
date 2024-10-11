@@ -46,7 +46,8 @@ https://infostart.ru/1c/articles/1494836/ </br>
 https://infostart.ru/1c/articles/1097936/ </br>
 - проведение документов по методике из БСП (3) </br>
 https://infostart.ru/1c/articles/1343740/ </br>
-</br>
+- БСП 3.1.10. Документация</br>
+https://its.1c.ru/db/bsp3110doc
 </br>
 
 ### -its
