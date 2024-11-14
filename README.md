@@ -51,8 +51,8 @@ https://its.1c.ru/db/bsp3110doc
 </br>
 
 ### -its
-- что нового в платформах </br>
-  https://dl03.1c.ru/content/Platform/8_3_22_1603/1cv8upd_8_3_22_1603.htm#717b9b8d-67e4-11ec-aa69-0050569f678a
+
+[что нового в платформах](https://dl03.1c.ru/content/Platform/8_3_22_1603/1cv8upd_8_3_22_1603.htm#717b9b8d-67e4-11ec-aa69-0050569f678a)
 - стандарты и методики разработки</br>
 https://its.1c.ru/db/v8std</br>
 - руководство разработчика  </br>
