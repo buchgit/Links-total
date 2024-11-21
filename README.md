@@ -212,6 +212,8 @@ https://infostart.ru/1c/articles/819087/    </br>
 - About Telegram bots  </br>
 https://core.telegram.org/bots  </br>
 
+## CLAUDE AI
+[Видео как зарегистрироваться](https://yandex.ru/video/preview/14256637352485215779)
 
 
 
