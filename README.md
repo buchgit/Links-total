@@ -14,6 +14,7 @@ https://graphviz.gitlab.io/download/ </br>
 https://github.com/plantuml-stdlib/C4-PlantUML </br>
 -- примеры С4  </br>
 https://github.com/plantuml-stdlib/C4-PlantUML/blob/master/samples/C4CoreDiagrams.md  </br>
+- [документация](https://plantuml-documentation.readthedocs.io/en/latest/command_line_reference.html)
 
 ## §1С
 ### - БСП (ssl)
