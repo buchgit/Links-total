@@ -6,8 +6,7 @@ https://meet.google.com/xjg-hyqs-fnn
 ## §PLANT UML 
 https://plantuml.com/ru/sequence-diagram </br>
 https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf </br>
-- plantuml + C4 model + vsc + graphviz (video how install all) </br>
-https://www.youtube.com/watch?v=Zt3Bj1HMJ8g </br>
+- [plantuml + C4 model + vsc + graphviz (video how install all)](https://www.youtube.com/watch?v=Zt3Bj1HMJ8g)
     - [download graphviz](https://graphviz.gitlab.io/download/)
     - [c4-plantuml library](https://github.com/plantuml-stdlib/C4-PlantUML)
     - [примеры С4](https://github.com/plantuml-stdlib/C4-PlantUML/blob/master/samples/C4CoreDiagrams.md)
