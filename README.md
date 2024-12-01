@@ -1,16 +1,14 @@
 # Links-total
 
-- day meeting </br>
-https://meet.google.com/xjg-hyqs-fnn
-
 ## §PLANT UML 
-- [Sequence-diagram](https://plantuml.com/ru/sequence-diagram)
+
 - [PlantUML_Language_Reference_Guide_ru](https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf)
+- [Документация](https://plantuml-documentation.readthedocs.io/en/latest/command_line_reference.html)
 - [plantuml + C4 model + vsc + graphviz (video how install all)](https://www.youtube.com/watch?v=Zt3Bj1HMJ8g)
     - [download graphviz](https://graphviz.gitlab.io/download/)
     - [c4-plantuml library](https://github.com/plantuml-stdlib/C4-PlantUML)
     - [примеры С4](https://github.com/plantuml-stdlib/C4-PlantUML/blob/master/samples/C4CoreDiagrams.md)
-- [документация](https://plantuml-documentation.readthedocs.io/en/latest/command_line_reference.html)
+- [Sequence-diagram](https://plantuml.com/ru/sequence-diagram)
 
 ## §1С
 ### - БСП (ssl)
