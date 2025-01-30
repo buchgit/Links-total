@@ -149,8 +149,9 @@ https://www.about1c.ru/v83/category/language-reference/collections
 - план запроса </br>
 https://infostart.ru/1c/articles/877736/
 
- - развертывание сервера хранилища конфигурации
-   https://wiseadvice-it.ru/o-kompanii/blog/articles/hranilishhe-konfiguracii-v-1s-8-3-ustanovka-i-nastroika/
+ - развертывание сервера хранилища конфигурации  </br>
+   https://sysadminchik.ru/str/liversi_result.php?search_id=111 </br>
+   https://wiseadvice-it.ru/o-kompanii/blog/articles/hranilishhe-konfiguracii-v-1s-8-3-ustanovka-i-nastroika/ </br>
 
 ### Книги на на its.</br>
 - Практическое пособие разработчика. </br>
