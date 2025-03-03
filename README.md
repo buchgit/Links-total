@@ -31,6 +31,7 @@ https://infostart.ru/1c/articles/1260411/ </br>
 https://infostart.ru/1c/articles/1318934/ </br>
 - асинхрон </br>
 https://infostart.ru/1c/tools/1318496/ </br>
+https://infostart.ru/1c/articles/1702526/ </br>
 - журнал регистрации </br>
 https://infostart.ru/1c/articles/1548219/ </br>
 - оценка производительности </br>
