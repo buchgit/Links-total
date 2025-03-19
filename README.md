@@ -153,9 +153,12 @@ https://infostart.ru/1c/articles/877736/
  - развертывание сервера хранилища конфигурации  </br>
    https://sysadminchik.ru/str/liversi_result.php?search_id=111 </br>
    https://wiseadvice-it.ru/o-kompanii/blog/articles/hranilishhe-konfiguracii-v-1s-8-3-ustanovka-i-nastroika/ </br>
-
 - логирование
   https://infostart.ru/1c/articles/2217361/
+
+- расшифровка в СКД
+  https://wiki.programstore.ru/obrabotka-rasshifrovki-v-skd/
+  
 
 ### Книги на на its.</br>
 - Практическое пособие разработчика. </br>
