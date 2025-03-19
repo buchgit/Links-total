@@ -154,6 +154,9 @@ https://infostart.ru/1c/articles/877736/
    https://sysadminchik.ru/str/liversi_result.php?search_id=111 </br>
    https://wiseadvice-it.ru/o-kompanii/blog/articles/hranilishhe-konfiguracii-v-1s-8-3-ustanovka-i-nastroika/ </br>
 
+- логирование
+  https://infostart.ru/1c/articles/2217361/
+
 ### Книги на на its.</br>
 - Практическое пособие разработчика. </br>
 https://its.1c.ru/db/pubdevguide83</br>
