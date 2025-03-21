@@ -158,6 +158,10 @@ https://infostart.ru/1c/articles/877736/
 
 - расшифровка в СКД
   https://wiki.programstore.ru/obrabotka-rasshifrovki-v-skd/
+
+- Shell  </br>
+  - Разные фишки, чтобы не забыть/ПЕЧАТЬ.md
+  - https://infostart.ru/1c/articles/1266995/
   
 
 ### Книги на на its.</br>
