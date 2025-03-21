@@ -160,7 +160,7 @@ https://infostart.ru/1c/articles/877736/
   https://wiki.programstore.ru/obrabotka-rasshifrovki-v-skd/
 
 - Shell  </br>
-  - Разные фишки, чтобы не забыть/ПЕЧАТЬ.md
+  - [ПЕЧАТЬ.md](https://github.com/buchgit/1C-Programming/blob/master/Разные%20фишки%2C%20чтобы%20не%20забыть/ПЕЧАТЬ.md)
   - https://infostart.ru/1c/articles/1266995/
   
 
