@@ -126,7 +126,8 @@ https://skycorvette.com/knowledges/dccfd1f4-ef50-4242-8355-d62fb3675e13/
 - видео примера разработки плагина </br>
   https://infostart.ru/1c/articles/1311121/#_Toc4
 - 1C:Enterprise Development Tools API  </br>
- https://edt.1c.ru/dev/edt/2023.1/apidocs/index.html 
+ https://edt.1c.ru/dev/edt/2023.1/apidocs/index.html
+- [мой репозиторий](https://github.com/buchgit/1C-Programming/tree/master/EDT)
 
 ### §ODATA 
 - мануал на infostart   </br>
