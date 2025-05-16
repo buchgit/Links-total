@@ -9,7 +9,7 @@
     - [c4-plantuml library](https://github.com/plantuml-stdlib/C4-PlantUML)
     - [примеры С4](https://github.com/plantuml-stdlib/C4-PlantUML/blob/master/samples/C4CoreDiagrams.md)
 - [Sequence-diagram](https://plantuml.com/ru/sequence-diagram)
-- [Использование Plunt Uml в markeown](https://github.com/buchgit/Links-total/edit/main/Files/Шаблоны-pluntuml.md)
+- [Использование Plunt Uml в markdown](https://github.com/buchgit/Links-total/edit/main/Files/Шаблоны-pluntuml.md)
 
 ## §1С
 ### - БСП (ssl)
