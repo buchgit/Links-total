@@ -144,6 +144,7 @@ https://pr-mex.github.io/vanessa-automation/dev/</br>
 https://github.com/Pr-Mex/vanessa-automation/blob/develop/docs/MainHelp/index.MD</br>
 
 ### Разное от 1с
+- [ПОСЛЕДНИЕ НОВОСТИ](http://v8.1c.ru/konf0613/)
 - схемы, форматы обменов</br>
 https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/standarty-i-formaty/standart-vzaimodeystviya-po-tekhnologii-directbank/opisanie-standarta-vzaimodeystviya-mezhdu-1s-predpriyatie-8-i-bankovskim-servisom/skhemy-dannykh/</br>
 
