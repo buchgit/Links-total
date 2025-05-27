@@ -13,6 +13,7 @@
 
 ## §1С
 ### - БСП (ssl)
+- [моя страничка на github](https://buchgit.github.io/1C_SSL/)
 - шпаргалка по методам </br>
 https://koder.by/bsp_shpargalka.php
 - от 1С</br>
