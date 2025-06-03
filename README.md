@@ -235,8 +235,8 @@ https://core.telegram.org/bots  </br>
 [Видео как зарегистрироваться](https://yandex.ru/video/preview/14256637352485215779)
 
 ## RabbitMQ
-[Сайт, плагины](https://www.rabbitmq.com/docs/plugins#enabled-plugins-file)
-[Моя страничка в репозитории](#https://github.com/buchgit/1C-Programming/blob/master/RabbitMQ/links)
+- [Сайт, плагины](https://www.rabbitmq.com/docs/plugins#enabled-plugins-file)
+- [Моя страничка в репозитории](https://github.com/buchgit/1C-Programming/blob/master/RabbitMQ/links)
 
 
 
