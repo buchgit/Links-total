@@ -53,6 +53,7 @@ https://its.1c.ru/db/bsp3110doc
 - [Что нового в платформах](https://dl03.1c.ru/content/Platform/8_3_22_1603/1cv8upd_8_3_22_1603.htm#717b9b8d-67e4-11ec-aa69-0050569f678a)
 - [СКД](https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3224:3226:3231)
 - [Стандарты и методики разработки](https://its.1c.ru/db/v8std)
+- [Документация по платформе 8.3.26](https://its.1c.ru/db/v8326doc)
 - руководство разработчика  </br>
 https://its.1c.ru/db/v8323doc#browse:13:-1:5 </br>
 - мет.мат. разработчикам </br>
