@@ -175,7 +175,7 @@ https://its.1c.ru/db/pubdevguide83</br>
 https://its.1c.ru/db/pubextensions
 
 ## §ImageMagick
-- [Установка, использование](#image-magick-all.md)
+- [Установка, использование](https://github.com/buchgit/1C-Programming/blob/master/ImageMagick/Image-magick-all.md)
 
 ## §JMeter
 - хабр. Как использовать JMeter для нагрузочного тестирования и тестирования производительности </br>
