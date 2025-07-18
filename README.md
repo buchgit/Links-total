@@ -1,7 +1,7 @@
 # Links-total
 
 ## Полезное прочее
-- [Полезное.md](#.\Files\Полезное.md)
+- [Полезное.md](#./Files/Полезное.md)
 ## §PLANT UML 
 
 - [PlantUML_Language_Reference_Guide_ru](https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf)
