@@ -1,11 +1,28 @@
 
 # Links-total
 
+| Разделы                                    | Разделы                                    |
+|---------------------------------------------|---------------------------------------------|
+| [Полезное прочее]([#полезное-прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее))         | [§EDT](#edt)                                |
+| [§PLANT UML]([#plant-uml](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml))                    | [§ODATA](#odata)                            |
+| [§1С](#1с)                                  | [Vanessa-Automation](#vanessa-automation)   |
+| [БСП (ssl)](#бсп-ssl)                       | [Разное от 1С](#разное-от-1с)               |
+| [its](#its)                                 | [PowerShell](#powershell)                   |
+| [РЛС](#рлс)                                 | [Книги на ITS](#книги-на-its)               |
+| [events](#events)                           | [§ImageMagick](#imagemagick)                |
+| [§JMeter](#jmeter)                          | [§KOTLIN](#kotlin)                          |
+| [§ANDROID](#android)                        | [§JAVA](#java)                              |
+| [§SPRING](#spring)                          | [§DOCKER](#docker)                          |
+| [§Biotime](#biotime)                        | [§Bitrix](#bitrix)                          |
+| [§Telegram](#telegram)                      | [GrayLog](#graylog)                         |
+| [CLAUDE AI](#claude-ai)                     | [RabbitMQ]([#rabbitmq](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-rabbitmq))                       |
+
+
 <details>
 <summary>⬇️ Оглавление</summary>
 
-- [Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)
-- [§PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
+- [Полезное прочее]()
+- [§PLANT UML]()
 - [§1С](#1с)
   - [БСП (ssl)](#бсп-ssl)
   - [its](#its)
@@ -29,7 +46,7 @@
 - [§Telegram](#telegram)
 - [GrayLog](#graylog)
 - [CLAUDE AI](#claude-ai)
-- [RabbitMQ](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-rabbitmq)
+- [RabbitMQ]()
   
 </details>
 
