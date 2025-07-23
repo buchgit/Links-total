@@ -166,9 +166,10 @@ https://infostart.ru/1c/articles/877736/
 - расшифровка в СКД
   https://wiki.programstore.ru/obrabotka-rasshifrovki-v-skd/
 
-- Shell  </br>
+### PowerShell  
   - [ПЕЧАТЬ.md](https://github.com/buchgit/1C-Programming/blob/master/Разные%20фишки%2C%20чтобы%20не%20забыть/ПЕЧАТЬ.md)
   - https://infostart.ru/1c/articles/1266995/
+  - https://github.com/YPermitin/PowerShellTools?tab=readme-ov-file
   
 
 ### Книги на на its.</br>
