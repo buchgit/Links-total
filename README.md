@@ -301,10 +301,10 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-### RabbitMQ 
+### :orange_circle: RabbitMQ 
 <span style="color: #E1AD01; font-size:2em; font-weight: bold;">RabbitMQ</span>
 - [Сайт, плагины](https://www.rabbitmq.com/docs/plugins#enabled-plugins-file)
 - [Моя страничка в репозитории](https://github.com/buchgit/1C-Programming/blob/master/RabbitMQ/links)
 
 [↑ К оглавлению](#links-total)
-## 🟡 §Biotime
+
