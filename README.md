@@ -30,7 +30,7 @@
 - [GrayLog](#graylog)
 - [CLAUDE AI](#claude-ai)
 - [RabbitMQ](#:orange_circle:-rabbitmq)
-- [🟡 §Biotime](#biotime)
+- [🟡 §Biotime](#biotime1)
 
 </details>
 
@@ -309,7 +309,7 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## 🟡 §Biotime
+## 🟡 §Biotime1
 
 | Название | Ссылка |
 |---|---|
