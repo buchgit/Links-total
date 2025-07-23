@@ -170,7 +170,9 @@ https://infostart.ru/1c/articles/877736/
   - [ПЕЧАТЬ.md](https://github.com/buchgit/1C-Programming/blob/master/Разные%20фишки%2C%20чтобы%20не%20забыть/ПЕЧАТЬ.md)
   - https://infostart.ru/1c/articles/1266995/
   - https://github.com/YPermitin/PowerShellTools?tab=readme-ov-file
-  - [Примеры скриптов](https://infostart.ru/1c/articles/1148862/)
+  - [Репозиторий примеров-1](https://infostart.ru/1c/articles/1148862/)
+  - [Репозиторий примеров-2](https://github.com/lazywinadmin/PowerShell)
+
   
 
 ### Книги на на its.</br>
