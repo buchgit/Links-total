@@ -1,265 +1,309 @@
+
 # Links-total
 
+<details>
+<summary>⬇️ Оглавление</summary>
+
+- [Полезное прочее](#полезное-прочее)
+- [§PLANT UML](#plant-uml)
+- [§1С](#1с)
+  - [БСП (ssl)](#бсп-ssl)
+  - [its](#its)
+  - [РЛС](#рлс)
+  - [events](#events)
+- [§EDT](#edt)
+- [§ODATA](#odata)
+- [Vanessa-Automation](#vanessa-automation)
+- [Разное от 1С](#разное-от-1с)
+- [PowerShell](#powershell)
+- [Книги на ITS](#книги-на-its)
+- [§ImageMagick](#imagemagick)
+- [§JMeter](#jmeter)
+- [§KOTLIN](#kotlin)
+- [§ANDROID](#android)
+- [§JAVA](#java)
+- [§SPRING](#spring)
+- [§DOCKER](#docker)
+- [§Biotime](#biotime)
+- [§Bitrix](#bitrix)
+- [§Telegram](#telegram)
+- [GrayLog](#graylog)
+- [CLAUDE AI](#claude-ai)
+- [RabbitMQ](#rabbitmq)
+
+</details>
+
+---
+
 ## Полезное прочее
-- [Полезное.md](./Files/Полезное.md)
-## §PLANT UML 
+| Файл         | Ссылка                          |
+|--------------|---------------------------------|
+| Полезное.md  | [Открыть](./Files/Полезное.md)  |
 
-- [PlantUML_Language_Reference_Guide_ru](https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf)
-- [Документация](https://plantuml-documentation.readthedocs.io/en/latest/command_line_reference.html)
-- [plantuml + C4 model + vsc + graphviz (video how install all)](https://www.youtube.com/watch?v=Zt3Bj1HMJ8g)
-    - [download graphviz](https://graphviz.gitlab.io/download/)
-    - [c4-plantuml library](https://github.com/plantuml-stdlib/C4-PlantUML)
-    - [примеры С4](https://github.com/plantuml-stdlib/C4-PlantUML/blob/master/samples/C4CoreDiagrams.md)
-- [Sequence-diagram](https://plantuml.com/ru/sequence-diagram)
-- [Использование Plunt Uml в markdown](https://github.com/buchgit/Links-total/edit/main/Files/Шаблоны-pluntuml.md)
+[↑ К оглавлению](#links-total)
 
-## §1С
-### - БСП (ssl)
-- [моя страничка на github](https://buchgit.github.io/1C_SSL/)
-- шпаргалка по методам </br>
-https://koder.by/bsp_shpargalka.php
-- от 1С</br>
-https://its.1c.ru/db/bsp319doc
-- регл.задания </br>
-https://infostart.ru/1c/articles/1663091/  </br>
-- многопоточка </br>
-https://infostart.ru/1c/articles/1625217/ </br>
-- генерация штрихкодов </br>
-https://infostart.ru/1c/articles/1356920/ </br>
-- печать макета MS Word в любом документе </br>
-https://infostart.ru/1c/articles/1388478/ </br>
-- шаблоны сообщений пользователю </br>
-https://infostart.ru/1c/articles/1657664/ </br>
-- длительные операции </br>
-https://infostart.ru/1c/articles/1260411/ </br>
-https://infostart.ru/1c/articles/1318934/ </br>
-- асинхрон </br>
-https://infostart.ru/1c/tools/1318496/ </br>
-https://infostart.ru/1c/articles/1702526/ </br>
-- журнал регистрации </br>
-https://infostart.ru/1c/articles/1548219/ </br>
-- оценка производительности </br>
-https://infostart.ru/1c/articles/1548219/ </br>
-- проведение документов по методике из БСП (1) </br>
-https://infostart.ru/1c/articles/1494836/ </br>
-- проведение документов по методике из БСП (2) </br>
-https://infostart.ru/1c/articles/1097936/ </br>
-- проведение документов по методике из БСП (3) </br>
-https://infostart.ru/1c/articles/1343740/ </br>
-- БСП 3.1.10. Документация</br>
-https://its.1c.ru/db/bsp3110doc
-</br>
+---
 
-### -its
+## §PLANT UML
 
-- [Что нового в платформах](https://dl03.1c.ru/content/Platform/8_3_22_1603/1cv8upd_8_3_22_1603.htm#717b9b8d-67e4-11ec-aa69-0050569f678a)
-- [СКД](https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3224:3226:3231)
-- [Стандарты и методики разработки](https://its.1c.ru/db/v8std)
-- [Документация по платформе 8.3.26](https://its.1c.ru/db/v8326doc)
-- руководство разработчика  </br>
-https://its.1c.ru/db/v8323doc#browse:13:-1:5 </br>
-- мет.мат. разработчикам </br>
-https://its.1c.ru/db/metod8dev#browse:13:-1:3199 </br>
-- стандарты разработки </br>
-https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3258:3268 </br>
-- интеграция с внешними системами (web,http,odata,...) </br>
-https://its.1c.ru/db/v8323doc#bookmark:dev:TI000000783 </br>
-- технологический журнал </br>
-https://its.1c.ru/db/v8323doc#bookmark:adm:TI000000446 </br>
-- журнал регистрации </br>
-https://its.1c.ru/db/v8323doc#bookmark:adm:TI000000145 </br>
-- язык запросов </br>
-https://its.1c.ru/db/v8323doc#bookmark:dev:TI000000455 </br>
-- синхронизация </br>
-https://its.1c.ru/db/metod81#content:5946:hdoc</br>
-- работа с различными форматами данных
-- https://its.1c.ru/db/v8324doc#bookmark:dev:TI000000771
-- БСП (SSL)</br>
-https://its.1c.ru/db/bsp319doc
+| Название | Ссылка |
+|---|---|
+| PlantUML Language Reference Guide | [PDF](https://pdf.plantuml.net/PlantUML_Language_Reference_Guide_ru.pdf) |
+| Документация | [Читать](https://plantuml-documentation.readthedocs.io/en/latest/command_line_reference.html) |
+| PlantUML + C4 model + VSC + Graphviz (видео) | [Смотреть](https://www.youtube.com/watch?v=Zt3Bj1HMJ8g) |
+| Download Graphviz | [Скачать](https://graphviz.gitlab.io/download/) |
+| C4-PlantUML library | [GitHub](https://github.com/plantuml-stdlib/C4-PlantUML) |
+| Примеры C4 | [Смотреть](https://github.com/plantuml-stdlib/C4-PlantUML/blob/master/samples/C4CoreDiagrams.md) |
+| Sequence diagram | [Читать](https://plantuml.com/ru/sequence-diagram) |
+| PlantUML в Markdown | [GitHub](https://github.com/buchgit/Links-total/edit/main/Files/Шаблоны-pluntuml.md) |
 
-- СКД
-https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3224:3226:3231
+[↑ К оглавлению](#links-total)
 
-### РЛС
-- производительный режим   </br>
-https://infostart.ru/1c/articles/1656341/  </br>
-- шаблоны рлс     </br>
-https://infostart.ru/1c/articles/995414/   </br>
-- пошагово несколько примеров  </br>
-https://infostart.ru/1c/articles/1535498/ </br>
-- как юзать обработку УправлениеДоступом из БСП   </br> 
-https://infostart.ru/1c/articles/1594229/  </br>
-- как поженить типовой RLS и новый документ  </br>
-https://infostart.ru/1c/articles/1596660/  </br>
-- разработка прав доступа (ИТС)  </br>
-https://its.1c.ru/db/bsp316doc#content:4:hdoc:issogl3_разработка_ограничений_прав_доступа   </br>
-- РЛС в расширении  </br>
-https://its.1c.ru/db/v8313doc#bookmark:dev:TI000001848  </br>
+---
 
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§1С</span>
 
+<span style="color: #2C5FB8; font-size:1.5em; font-weight: bold;">БСП (ssl)</span>
 
-### -events 
-- документы </br>
-https://its.1c.ru/db/pubdevguide83/content/618/hdoc </br>
-- справочники </br>
-https://its.1c.ru/db/pubdevguide83#content:614:hdoc </br>
-- константы </br>
-https://its.1c.ru/db/pubdevguide83#content:611:hdoc </br>
-- план в.х. </br>
-https://its.1c.ru/db/pubdevguide83#content:624:hdoc </br>
-- план счетов </br>
-https://its.1c.ru/db/pubdevguide83#content:627:hdoc </br>
-- план видов расчета </br>
-https://its.1c.ru/db/pubdevguide83#content:630:hdoc </br>
-- регистр сведений </br>
-https://its.1c.ru/db/pubdevguide83#content:634:hdoc </br>
-https://its.1c.ru/db/pubdevguide83#content:633:hdoc </br>
-- регистр накоплений </br>
-https://its.1c.ru/db/pubdevguide83#content:637:hdoc </br>
-- регистр бухгалтерии </br>
-https://its.1c.ru/db/pubdevguide83#content:640:hdoc </br>
-- регистр расчета </br>
-https://its.1c.ru/db/pubdevguide83#content:643:hdoc </br>
-- план обмена </br>
-https://its.1c.ru/db/pubdevguide83#content:646:hdoc </br>
+| Название | Ссылка |
+|---|---|
+| Моя страничка на GitHub | [Открыть](https://buchgit.github.io/1C_SSL/) |
+| Шпаргалка по методам | [Смотреть](https://koder.by/bsp_shpargalka.php) |
+| Документация от 1С | [ITS](https://its.1c.ru/db/bsp319doc) |
+| Регламентные задания | [Читать](https://infostart.ru/1c/articles/1663091/) |
+| Многопоточка | [Читать](https://infostart.ru/1c/articles/1625217/) |
+| Генерация штрихкодов | [Читать](https://infostart.ru/1c/articles/1356920/) |
+| Печать макета MS Word | [Читать](https://infostart.ru/1c/articles/1388478/) |
+| Шаблоны сообщений | [Читать](https://infostart.ru/1c/articles/1657664/) |
+| Длительные операции | [1](https://infostart.ru/1c/articles/1260411/), [2](https://infostart.ru/1c/articles/1318934/) |
+| Асинхрон | [1](https://infostart.ru/1c/tools/1318496/), [2](https://infostart.ru/1c/articles/1702526/) |
+| Журнал регистрации | [Читать](https://infostart.ru/1c/articles/1548219/) |
+| Оценка производительности | [Читать](https://infostart.ru/1c/articles/1548219/) |
+| Проведение документов (БСП): | [1](https://infostart.ru/1c/articles/1494836/), [2](https://infostart.ru/1c/articles/1097936/), [3](https://infostart.ru/1c/articles/1343740/) |
+| БСП 3.1.10 Документация | [ITS](https://its.1c.ru/db/bsp3110doc) |
 
-### §EDT
-- plugins for EDT by IntelliJ Idea </br>
-https://skycorvette.com/knowledges/dccfd1f4-ef50-4242-8355-d62fb3675e13/
-- разрботка планинов, мануал от edt.1c.ru </br>
-  https://edt.1c.ru/dev/ru/
-- видео примера разработки плагина </br>
-  https://infostart.ru/1c/articles/1311121/#_Toc4
-- 1C:Enterprise Development Tools API  </br>
- https://edt.1c.ru/dev/edt/2023.1/apidocs/index.html
-- [мой репозиторий](https://github.com/buchgit/1C-Programming/tree/master/EDT)
+[↑ К оглавлению](#links-total)
 
-### §ODATA 
-- мануал на infostart   </br>
-https://infostart.ru/1c/articles/1570140/    </br>
-- примеры с ИТС    </br>
-https://its.1c.ru/db/fresh#content:19956692:hdoc    </br>
+<span style="color: #2C5FB8; font-size:1.5em; font-weight: bold;">its</span>
 
-### Vanessa-Automation
-- домашняя страничка</br>
-https://pr-mex.github.io/vanessa-automation/dev/</br>
-- мануал, видосы от разработчиков</br>
-https://github.com/Pr-Mex/vanessa-automation/blob/develop/docs/MainHelp/index.MD</br>
+| Название | Ссылка |
+|---|---|
+| Что нового в платформах | [Читать](https://dl03.1c.ru/content/Platform/8_3_22_1603/1cv8upd_8_3_22_1603.htm#717b9b8d-67e4-11ec-aa69-0050569f678a) |
+| СКД | [Читать](https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3224:3226:3231) |
+| Стандарты и методики разработки | [Читать](https://its.1c.ru/db/v8std) |
+| Документация по платформе 8.3.26 | [Читать](https://its.1c.ru/db/v8326doc) |
+| Руководство разработчика | [Читать](https://its.1c.ru/db/v8323doc#browse:13:-1:5) |
+| Мет.мат. разработчикам | [Читать](https://its.1c.ru/db/metod8dev#browse:13:-1:3199) |
+| Стандарты разработки | [Читать](https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3258:3268) |
+| Интеграция с внешними системами | [Читать](https://its.1c.ru/db/v8323doc#bookmark:dev:TI000000783) |
+| Технологический журнал | [Читать](https://its.1c.ru/db/v8323doc#bookmark:adm:TI000000446) |
+| Журнал регистрации | [Читать](https://its.1c.ru/db/v8323doc#bookmark:adm:TI000000145) |
+| Язык запросов | [Читать](https://its.1c.ru/db/v8323doc#bookmark:dev:TI000000455) |
+| Синхронизация | [Читать](https://its.1c.ru/db/metod81#content:5946:hdoc) |
+| Разные форматы данных | [Читать](https://its.1c.ru/db/v8324doc#bookmark:dev:TI000000771) |
+| БСП (SSL) | [Читать](https://its.1c.ru/db/bsp319doc) |
 
-### Разное от 1с
-- [ПОСЛЕДНИЕ НОВОСТИ](http://v8.1c.ru/konf0613/)
-- схемы, форматы обменов</br>
-https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/standarty-i-formaty/standart-vzaimodeystviya-po-tekhnologii-directbank/opisanie-standarta-vzaimodeystviya-mezhdu-1s-predpriyatie-8-i-bankovskim-servisom/skhemy-dannykh/</br>
+[↑ К оглавлению](#links-total)
 
-- синтаксис </br>
-https://www.about1c.ru/v83/category/language-reference/collections
+<span style="color: #2C5FB8; font-size:1.5em; font-weight: bold;">РЛС</span>
 
-- план запроса </br>
-https://infostart.ru/1c/articles/877736/
+<details>
+<summary>Показать таблицу ссылок по РЛС</summary>
 
- - развертывание сервера хранилища конфигурации  </br>
-   https://sysadminchik.ru/str/liversi_result.php?search_id=111 </br>
-   https://wiseadvice-it.ru/o-kompanii/blog/articles/hranilishhe-konfiguracii-v-1s-8-3-ustanovka-i-nastroika/ </br>
-- логирование
-  https://infostart.ru/1c/articles/2217361/
+| Название | Ссылка |
+|---|---|
+| Производительный режим | [Читать](https://infostart.ru/1c/articles/1656341/) |
+| Шаблоны РЛС | [Читать](https://infostart.ru/1c/articles/995414/) |
+| Пошагово несколько примеров | [Читать](https://infostart.ru/1c/articles/1535498/) |
+| УправлениеДоступом из БСП | [Читать](https://infostart.ru/1c/articles/1594229/) |
+| RLS и новый документ | [Читать](https://infostart.ru/1c/articles/1596660/) |
+| Разработка прав доступа (ИТС) | [Читать](https://its.1c.ru/db/bsp316doc#content:4:hdoc:issogl3_разработка_ограничений_прав_доступа) |
+| РЛС в расширении | [Читать](https://its.1c.ru/db/v8313doc#bookmark:dev:TI000001848) |
 
-- расшифровка в СКД
-  https://wiki.programstore.ru/obrabotka-rasshifrovki-v-skd/
+</details>
 
-### PowerShell  
-  - [ПЕЧАТЬ.md](https://github.com/buchgit/1C-Programming/blob/master/Разные%20фишки%2C%20чтобы%20не%20забыть/ПЕЧАТЬ.md)
-  - https://infostart.ru/1c/articles/1266995/
-  - https://github.com/YPermitin/PowerShellTools?tab=readme-ov-file
-  - [Репозиторий примеров-1](https://infostart.ru/1c/articles/1148862/)
-  - [Репозиторий примеров-2](https://github.com/lazywinadmin/PowerShell)
-  - [Техжурнал 1С, анализ](https://almaz-sharipov.ru/article/1c-expert/psh)
-  - [Мой репозиторий](https://github.com/buchgit/1C-Programming/tree/master/PowerShell)
+[↑ К оглавлению](#links-total)
 
-  
+<span style="color: #2C5FB8; font-size:1.5em; font-weight: bold;">events</span>
 
-### Книги на на its.</br>
-- Практическое пособие разработчика. </br>
-https://its.1c.ru/db/pubdevguide83</br>
-- Е. Ю. Хрусталева. Расширения конфигураций. Адаптация прикладных решений с сохранением поддержки в облаках и на земле</br>
-https://its.1c.ru/db/pubextensions
+<details>
+<summary>Показать таблицу ссылок по events</summary>
 
-## §ImageMagick
+| Название | Ссылка |
+|---|---|
+| Документы | [Читать](https://its.1c.ru/db/pubdevguide83/content/618/hdoc) |
+| Справочники | [Читать](https://its.1c.ru/db/pubdevguide83#content:614:hdoc) |
+| Константы | [Читать](https://its.1c.ru/db/pubdevguide83#content:611:hdoc) |
+| План в.х. | [Читать](https://its.1c.ru/db/pubdevguide83#content:624:hdoc) |
+| План счетов | [Читать](https://its.1c.ru/db/pubdevguide83#content:627:hdoc) |
+| План видов расчета | [Читать](https://its.1c.ru/db/pubdevguide83#content:630:hdoc) |
+| Регистр сведений | [1](https://its.1c.ru/db/pubdevguide83#content:634:hdoc), [2](https://its.1c.ru/db/pubdevguide83#content:633:hdoc) |
+| Регистр накоплений | [Читать](https://its.1c.ru/db/pubdevguide83#content:637:hdoc) |
+| Регистр бухгалтерии | [Читать](https://its.1c.ru/db/pubdevguide83#content:640:hdoc) |
+| Регистр расчета | [Читать](https://its.1c.ru/db/pubdevguide83#content:643:hdoc) |
+| План обмена | [Читать](https://its.1c.ru/db/pubdevguide83#content:646:hdoc) |
+
+</details>
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§EDT</span>
+
+- [plugins for EDT by IntelliJ Idea](https://skycorvette.com/knowledges/dccfd1f4-ef50-4242-8355-d62fb3675e13/)
+- [Мануал от edt.1c.ru](https://edt.1c.ru/dev/ru/)
+- [Видео примера разработки плагина](https://infostart.ru/1c/articles/1311121/#_Toc4)
+- [EDT API docs](https://edt.1c.ru/dev/edt/2023.1/apidocs/index.html)
+- [Мой репозиторий](https://github.com/buchgit/1C-Programming/tree/master/EDT)
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§ODATA</span>
+
+- [Мануал на infostart](https://infostart.ru/1c/articles/1570140/)
+- [Примеры с ИТС](https://its.1c.ru/db/fresh#content:19956692:hdoc)
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">Vanessa-Automation</span>
+
+- [Домашняя страничка](https://pr-mex.github.io/vanessa-automation/dev/)
+- [Мануал, видосы от разработчиков](https://github.com/Pr-Mex/vanessa-automation/blob/develop/docs/MainHelp/index.MD)
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">Разное от 1С</span>
+
+<details>
+<summary>Показать дополнительные ссылки</summary>
+
+- [Последние новости](http://v8.1c.ru/konf0613/)
+- [Схемы, форматы обменов](https://v8.1c.ru/tekhnologii/obmen-dannymi-i-integratsiya/standarty-i-formaty/standart-vzaimodeystviya-po-tekhnologii-directbank/opisanie-standarta-vzaimodeystviya-mezhdu-1s-predpriyatie-8-i-bankovским-сервисом/skhemy-dannykh/)
+- [Синтаксис](https://www.about1c.ru/v83/category/language-reference/collections)
+- [План запроса](https://infostart.ru/1c/articles/877736/)
+- [Развертывание сервера хранилища конфигурации](https://sysadminchik.ru/str/liversi_result.php?search_id=111)
+- [WiseAdvice IT](https://wiseadvice-it.ru/o-kompanii/blog/articles/hranilishhe-konfiguracii-v-1s-8-3-ustanovka-i-nastroika/)
+- [Логирование](https://infostart.ru/1c/articles/2217361/)
+- [Расшифровка в СКД](https://wiki.programstore.ru/obrabotka-rasshifrovki-v-skd/)
+</details>
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">PowerShell</span>
+
+| Название | Ссылка |
+|---|---|
+| Печать.md | [Читать](https://github.com/buchgit/1C-Programming/blob/master/Разные%20фишки%2C%20чтобы%20не%20забыть/ПЕЧАТЬ.md) |
+| Инфостарт | [Читать](https://infostart.ru/1c/articles/1266995/) |
+| PowerShellTools | [GitHub](https://github.com/YPermitin/PowerShellTools?tab=readme-ov-file) |
+| Репозиторий примеров-1 | [Читать](https://infostart.ru/1c/articles/1148862/) |
+| Репозиторий примеров-2 | [GitHub](https://github.com/lazywinadmin/PowerShell) |
+| Техжурнал 1С, анализ | [Читать](https://almaz-sharipov.ru/article/1c-expert/psh) |
+| Мой репозиторий | [GitHub](https://github.com/buchgit/1C-Programming/tree/master/PowerShell) |
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">Книги на ITS</span>
+
+| Название | Ссылка |
+|---|---|
+| Практическое пособие разработчика | [Читать](https://its.1c.ru/db/pubdevguide83) |
+| Е. Ю. Хрусталева. Расширения конфигураций | [Читать](https://its.1c.ru/db/pubextensions) |
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§ImageMagick</span>
+
 - [Установка, использование](https://github.com/buchgit/1C-Programming/blob/master/ImageMagick/Image-magick-all.md)
 
-## §JMeter
-- хабр. Как использовать JMeter для нагрузочного тестирования и тестирования производительности </br>
-https://habr.com/ru/companies/otus/articles/746504/
+[↑ К оглавлению](#links-total)
 
-## §KOTLIN
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§JMeter</span>
 
-## §ANDROID
+- [Как использовать JMeter](https://habr.com/ru/companies/otus/articles/746504/)
 
-## §JAVA
+[↑ К оглавлению](#links-total)
 
-## §SPRING
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§KOTLIN</span>
 
-## §DOCKER
-- установка на Ubuntu скриптом </br>
-https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script</br>
-### Мой репозиторий</br>
-- how to install </br>
-https://github.com/buchgit/Docker/blob/master/how%20to%20install
+_**Здесь пока пусто, добавьте свои ссылки!**_
 
-## §Biotime
-- swagger  </br>
-http://10.40.10.30:9000/swagger/ui/index#/   </br>
-http://demo.biotime.online:9000/swagger/ui/index
-- api  </br>
-https://github.com/buchgit/1C-Programming/blob/master/BioTime/BioTime%208.5%20API%20User%20Manual.pdf
-- онлайн мануалы  </br>
-https://www.biotime.ru/support/biolib.php
-- админка </br>
-http://10.40.10.30:5001/Account/Login/?ReturnUrl=%2FOverview%2FQuickReview
+[↑ К оглавлению](#links-total)
 
-## §Bitrix
-- Создание входящего вебхука  </br>
-https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=99&LESSON_ID=8581  
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§ANDROID</span>
 
-- Метод task.item.add  </br>
-https://dev.1c-bitrix.ru/rest_help/tasks/task/item/add.php     </br>
-https://dev.1c-bitrix.ru/api_help/tasks/classes/ctasks/add.php
-- Создание задачи через Web-hook  </br>
-https://gitpro.ru/content/articles/512/
-- 1c example_1 </br>
-https://forum.mista.ru/topic.php?id=879788
+_**Здесь пока пусто, добавьте свои ссылки!**_
 
-## §Telegram
-- telegram bot API  </br>
-https://core.telegram.org/bots/api  </br>
-- статья с примером на habr  </br>
-https://habr.com/ru/companies/otus/articles/741520/   </br>
-- статья с примером на infostart    </br>
-https://infostart.ru/1c/articles/819087/    </br>
-- About Telegram bots  </br>
-https://core.telegram.org/bots  </br>
+[↑ К оглавлению](#links-total)
 
-## GrayLog
-[Установка под Windows](https://virtuallyfun.com/2023/12/02/running-graylog-on-windows/)
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§JAVA</span>
 
-## CLAUDE AI
-[Видео как зарегистрироваться](https://yandex.ru/video/preview/14256637352485215779)
+_**Здесь пока пусто, добавьте свои ссылки!**_
 
-## RabbitMQ
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§SPRING</span>
+
+_**Здесь пока пусто, добавьте свои ссылки!**_
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§DOCKER</span>
+
+- [Установка на Ubuntu](https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script)
+
+| Мой репозиторий | [How to install](https://github.com/buchgit/Docker/blob/master/how%20to%20install) |
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§Biotime</span>
+
+| Название | Ссылка |
+|---|---|
+| Swagger (локально) | [Открыть](http://10.40.10.30:9000/swagger/ui/index#/) |
+| Swagger (demo) | [Открыть](http://demo.biotime.online:9000/swagger/ui/index) |
+| API | [PDF](https://github.com/buchgit/1C-Programming/blob/master/BioTime/BioTime%208.5%20API%20User%20Manual.pdf) |
+| Онлайн-мануалы | [Читать](https://www.biotime.ru/support/biolib.php) |
+| Админка | [Открыть](http://10.40.10.30:5001/Account/Login/?ReturnUrl=%2FOverview%2FQuickReview) |
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§Bitrix</span>
+
+| Название | Ссылка |
+|---|---|
+| Входящий вебхук | [Читать](https://dev.1c-bitrix.ru/learning/course/?COURSE_ID=99&LESSON_ID=8581) |
+| Метод task.item.add | [1](https://dev.1c-bitrix.ru/rest_help/tasks/task/item/add.php), [2](https://dev.1c-bitrix.ru/api_help/tasks/classes/ctasks/add.php) |
+| Создание задачи через Web-hook | [Читать](https://gitpro.ru/content/articles/512/) |
+| 1C Example_1 | [Читать](https://forum.mista.ru/topic.php?id=879788) |
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§Telegram</span>
+
+| Название | Ссылка |
+|---|---|
+| Telegram bot API | [Документация](https://core.telegram.org/bots/api) |
+| Пример на Habr | [Читать](https://habr.com/ru/companies/otus/articles/741520/) |
+| Пример на infostart | [Читать](https://infostart.ru/1c/articles/819087/) |
+| About Telegram bots | [Читать](https://core.telegram.org/bots) |
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">GrayLog</span>
+
+- [Установка под Windows](https://virtuallyfun.com/2023/12/02/running-graylog-on-windows/)
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">CLAUDE AI</span>
+
+- [Видео как зарегистрироваться](https://yandex.ru/video/preview/14256637352485215779)
+
+[↑ К оглавлению](#links-total)
+
+<span style="color: #E1AD01; font-size:2em; font-weight: bold;">RabbitMQ</span>
+
 - [Сайт, плагины](https://www.rabbitmq.com/docs/plugins#enabled-plugins-file)
 - [Моя страничка в репозитории](https://github.com/buchgit/1C-Programming/blob/master/RabbitMQ/links)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-...
+[↑ К оглавлению](#links-total)
