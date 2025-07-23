@@ -7,10 +7,10 @@
 |-|---|---|---|---|
 |1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)|[§EDT](#edt)|[БСП (ssl)](#бсп-ssl)|[§PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
 |2|[§ODATA](#odata)|[§1С](#1с)|[Vanessa-Automation](#vanessa-automation)|[Разное от 1С](#разное-от-1с)
-|3|[its](#its)|||[PowerShell](#powershell)
-| [РЛС](#рлс)                                 | [Книги на ITS](#книги-на-its)               |
-| [events](#events)                           | [§ImageMagick](#imagemagick)                |
-| [§JMeter](#jmeter)                          | [§KOTLIN](#kotlin)                          |
+|3|[its](#its)|[§ImageMagick](#imagemagick)|[§KOTLIN](#kotlin)|[PowerShell](#powershell)
+|4|[Книги на ITS](#книги-на-its)|[РЛС](#рлс)||
+| [events](#events)                           |                 |
+| [§JMeter](#jmeter)                          |                           |
 | [§ANDROID](#android)                        | [§JAVA](#java)                              |
 | [§SPRING](#spring)                          | [§DOCKER](#docker)                          |
 | [§Biotime](#biotime)                        | [§Bitrix](#bitrix)                          |
