@@ -4,7 +4,7 @@
 <details>
 <summary>⬇️ Оглавление</summary>
 
-- [Полезное прочее](#полезное-прочее)
+- [Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)
 - [§PLANT UML](#plant-uml)
 - [§1С](#1с)
   - [БСП (ssl)](#бсп-ssl)
