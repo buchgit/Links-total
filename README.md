@@ -29,7 +29,7 @@
 - [§Telegram](#telegram)
 - [GrayLog](#graylog)
 - [CLAUDE AI](#claude-ai)
-- [RabbitMQ](#rabbitmq)
+- [RabbitMQ](#:orange_circle:-rabbitmq)
 
 </details>
 
