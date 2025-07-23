@@ -1,7 +1,9 @@
 
 # Links-total
 
-| Разделы                                    | Разделы                                    |
+
+
+| Разделы                                    | Разделы                                    | Разделы                                     Разделы                                    
 |---------------------------------------------|---------------------------------------------|
 | [Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)         | [§EDT](#edt)                                |
 | [§PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)                    | [§ODATA](#odata)                            |
@@ -16,6 +18,7 @@
 | [§Biotime](#biotime)                        | [§Bitrix](#bitrix)                          |
 | [§Telegram](#telegram)                      | [GrayLog](#graylog)                         |
 | [CLAUDE AI](#claude-ai)                     | [RabbitMQ](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-rabbitmq)                       |
+
 
 
 <details>
