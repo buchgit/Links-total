@@ -29,9 +29,8 @@
 - [§Telegram](#telegram)
 - [GrayLog](#graylog)
 - [CLAUDE AI](#claude-ai)
-- [RabbitMQ](#:orange_circle:-rabbitmq)
-- [Biotime](https://github.com/buchgit/Links-total/blob/main/README.md#-biotime1)
-
+- [RabbitMQ](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-rabbitmq)
+  
 </details>
 
 ---
@@ -309,9 +308,4 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## 🟡 §Biotime1
 
-| Название | Ссылка |
-|---|---|
-| Swagger (локально) | [Открыть](http://10.40.10.30:9000/swagger/ui/index#/) |
-...
