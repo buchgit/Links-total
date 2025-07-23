@@ -3,8 +3,8 @@
 
 
 
-| Разделы                                    | Разделы                                    | Разделы                                     Разделы                                    
-|---------------------------------------------|---------------------------------------------|
+| Разделы                                    | Разделы                                    | Разделы                                     | Разделы                                    
+|---|---|---|---|
 | [Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)         | [§EDT](#edt)                                |
 | [§PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)                    | [§ODATA](#odata)                            |
 | [§1С](#1с)                                  | [Vanessa-Automation](#vanessa-automation)   |
