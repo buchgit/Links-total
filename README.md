@@ -4,7 +4,7 @@
 
 
 |:+1:| Разделы                                    | Разделы                                    | Разделы                                     | Разделы                                    
-||---|---|---|---|
+|-|---|---|---|---|
 |1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)|[§EDT](#edt)|[БСП (ssl)](#бсп-ssl)|[§PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
 |2|[§ODATA](#odata)|[§1С](#1с)|[Vanessa-Automation](#vanessa-automation)|[Разное от 1С](#разное-от-1с)
 |3|[its](#its)|[§ImageMagick](#imagemagick)|[§KOTLIN](#kotlin)|[PowerShell](#powershell)
