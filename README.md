@@ -30,7 +30,7 @@
 - [GrayLog](#graylog)
 - [CLAUDE AI](#claude-ai)
 - [RabbitMQ](#:orange_circle:-rabbitmq)
-- [🟡 §Biotime](https://github.com/buchgit/Links-total/blob/main/README.md#-biotime1)
+- [Biotime](https://github.com/buchgit/Links-total/blob/main/README.md#-biotime1)
 
 </details>
 
