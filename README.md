@@ -8,15 +8,12 @@
 |1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)|[§EDT](#edt)|[БСП (ssl)](#бсп-ssl)|[§PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
 |2|[§ODATA](#odata)|[§1С](#1с)|[Vanessa-Automation](#vanessa-automation)|[Разное от 1С](#разное-от-1с)
 |3|[its](#its)|[§ImageMagick](#imagemagick)|[§KOTLIN](#kotlin)|[PowerShell](#powershell)
-|4|[Книги на ITS](#книги-на-its)|[РЛС](#рлс)||
-| [events](#events)                           |                 |
-| [§JMeter](#jmeter)                          |                           |
-| [§ANDROID](#android)                        | [§JAVA](#java)                              |
-| [§SPRING](#spring)                          | [§DOCKER](#docker)                          |
-| [§Biotime](#biotime)                        | [§Bitrix](#bitrix)                          |
-| [§Telegram](#telegram)                      | [GrayLog](#graylog)                         |
-| [CLAUDE AI](#claude-ai)                     | [RabbitMQ](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-rabbitmq)                       |
-
+|4|[Книги на ITS](#книги-на-its)|[РЛС](#рлс)|[events](#events)|[§JMeter](#jmeter)
+|5|[§ANDROID](#android)|[§JAVA](#java)|[§SPRING](#spring)|[§DOCKER](#docker)|[RabbitMQ](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-rabbitmq)
+|6|[§Biotime](#biotime)|[§Bitrix](#bitrix)|[§Telegram](#telegram)|[GrayLog](#graylog)
+|7|[CLAUDE AI](#claude-ai)|||
+|9||||
+|10||||
 
 
 <details>
