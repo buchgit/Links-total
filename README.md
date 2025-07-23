@@ -172,6 +172,7 @@ https://infostart.ru/1c/articles/877736/
   - https://github.com/YPermitin/PowerShellTools?tab=readme-ov-file
   - [Репозиторий примеров-1](https://infostart.ru/1c/articles/1148862/)
   - [Репозиторий примеров-2](https://github.com/lazywinadmin/PowerShell)
+  - [Техжурнал 1С, анализ](https://almaz-sharipov.ru/article/1c-expert/psh)
 
   
 
