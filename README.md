@@ -1,8 +1,6 @@
 
 # Links-total
 
-
-
 |:+1:| Разделы                                    | Разделы                                    | Разделы                                     | Разделы                                    
 |-|---|---|---|---|
 |1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)|[§EDT](#edt)|[БСП (ssl)](#бсп-ssl)|[§PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
@@ -15,40 +13,6 @@
 |9||||
 |10||||
 
-
-<details>
-<summary>⬇️ Оглавление</summary>
-
-- [Полезное прочее]()
-- [§PLANT UML]()
-- [§1С](#1с)
-  - [БСП (ssl)](#бсп-ssl)
-  - [its](#its)
-  - [РЛС](#рлс)
-  - [events](#events)
-- [§EDT](#edt)
-- [§ODATA](#odata)
-- [Vanessa-Automation](#vanessa-automation)
-- [Разное от 1С](#разное-от-1с)
-- [PowerShell](#powershell)
-- [Книги на ITS](#книги-на-its)
-- [§ImageMagick](#imagemagick)
-- [§JMeter](#jmeter)
-- [§KOTLIN](#kotlin)
-- [§ANDROID](#android)
-- [§JAVA](#java)
-- [§SPRING](#spring)
-- [§DOCKER](#docker)
-- [§Biotime](#biotime)
-- [§Bitrix](#bitrix)
-- [§Telegram](#telegram)
-- [GrayLog](#graylog)
-- [CLAUDE AI](#claude-ai)
-- [RabbitMQ]()
-  
-</details>
-
----
 
 ## :orange_circle: Полезное прочее
 | Файл         | Ссылка                          |
