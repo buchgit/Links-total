@@ -5,7 +5,7 @@
 |-|---|---|---|---|
 |1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)|[§EDT](#edt)|[БСП (ssl)](#бсп-ssl)|[§PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
 |2|[§ODATA](#odata)|[§1С](#1с)|[Vanessa-Automation](#vanessa-automation)|[Разное от 1С](#разное-от-1с)
-|3|[its](#its)|[§ImageMagick](#imagemagick)|[§KOTLIN](#kotlin)|[PowerShell](#powershell)
+|3|[its](#итс)|[§ImageMagick](#imagemagick)|[§KOTLIN](#kotlin)|[PowerShell](#powershell)
 |4|[Книги на ITS](#книги-на-its)|[РЛС](#рлс)|[events](#events)|[§JMeter](#jmeter)
 |5|[§ANDROID](#android)|[§JAVA](#java)|[§SPRING](#spring)|[§DOCKER](#docker)
 |6|[§Biotime](#biotime)|[§Bitrix](#bitrix)|[§Telegram](#telegram)|[GrayLog](#graylog)
@@ -63,7 +63,7 @@
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #2C5FB8; font-size:1.5em; font-weight: bold;">its</span>
+## ИТС
 
 | Название | Ссылка |
 |---|---|
@@ -81,6 +81,7 @@
 | Синхронизация | [Читать](https://its.1c.ru/db/metod81#content:5946:hdoc) |
 | Разные форматы данных | [Читать](https://its.1c.ru/db/v8324doc#bookmark:dev:TI000000771) |
 | БСП (SSL) | [Читать](https://its.1c.ru/db/bsp319doc) |
+|Методические рекомендации по конфигурированию|[Читать](https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3224:3226)|
 
 [↑ К оглавлению](#links-total)
 
