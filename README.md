@@ -82,7 +82,7 @@
 | Разные форматы данных | [Читать](https://its.1c.ru/db/v8324doc#bookmark:dev:TI000000771) |
 | БСП (SSL) | [Читать](https://its.1c.ru/db/bsp319doc) |
 |:+1:Методические рекомендации по конфигурированию|[Читать](https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3224:3226)|
-| Структура баз, таблицы | [Читать]([https://its.1c.ru/db/bsp319doc](https://its.1c.ru/db/metod8dev/content/1591/hdoc)) |
+| Структура баз, таблицы | [Читать](https://its.1c.ru/db/metod8dev/content/1591/hdoc)|
 
 [↑ К оглавлению](#links-total)
 
