@@ -126,7 +126,7 @@
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§EDT</span>
+### 🟠: §EDT
 
 - [plugins for EDT by IntelliJ Idea](https://skycorvette.com/knowledges/dccfd1f4-ef50-4242-8355-d62fb3675e13/)
 - [Мануал от edt.1c.ru](https://edt.1c.ru/dev/ru/)
