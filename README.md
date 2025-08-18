@@ -136,7 +136,7 @@
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§ODATA</span>
+### 🟠: ODATA
 
 - [Мануал на infostart](https://infostart.ru/1c/articles/1570140/)
 - [Примеры с ИТС](https://its.1c.ru/db/fresh#content:19956692:hdoc)
