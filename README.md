@@ -267,6 +267,7 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 | Пример на Habr | [Читать](https://habr.com/ru/companies/otus/articles/741520/) |
 | Пример на infostart | [Читать](https://infostart.ru/1c/articles/819087/) |
 | About Telegram bots | [Читать](https://core.telegram.org/bots) |
+| Мое по боту | [Читать]([https://core.telegram.org/bots](https://github.com/buchgit/1C-Programming/blob/master/Телеграм-бот/общее.md)) |
 
 [↑ К оглавлению](#links-total)
 
