@@ -39,8 +39,6 @@
 [↑ К оглавлению](#links-total)
 
 ---
-
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§1С</span>
 ## :orange_circle: :orange_circle: §1С :orange_circle: :orange_circle:
 ### :orange_circle: БСП (ssl)
 
@@ -63,7 +61,7 @@
 
 [↑ К оглавлению](#links-total)
 
-## ИТС
+## :orange_circle: ИТС
 
 | Название | Ссылка |
 |---|---|
