@@ -42,7 +42,7 @@
 
 <span style="color: #E1AD01; font-size:2em; font-weight: bold;">§1С</span>
 
-<span style="color: #2C5FB8; font-size:1.5em; font-weight: bold;">БСП (ssl)</span>
+### :orange_circle: БСП (ssl)
 
 | Название | Ссылка |
 |---|---|
