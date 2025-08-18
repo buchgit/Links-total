@@ -3,7 +3,7 @@
 
 |:+1:| Разделы                                    | Разделы                                    | Разделы                                     | Разделы                                    
 |-|---|---|---|---|
-|1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)|[§EDT](#edt)|[БСП (ssl)](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-бсп-ssl)|[§PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
+|1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)|[§EDT](https://github.com/buchgit/Links-total/blob/main/README.md#-edt)|[БСП (ssl)](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-бсп-ssl)|[§PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
 |2|[§ODATA](#odata)|[§1С](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-orange_circle-1с-orange_circle-orange_circle)|[Vanessa-Automation](#vanessa-automation)|[Разное от 1С](#разное-от-1с)
 |3|[ИТС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-итс)|[§ImageMagick](#imagemagick)|[§KOTLIN](#kotlin)|[PowerShell](#powershell)
 |4|[Книги на ITS](#книги-на-its)|[РЛС](#рлс)|[events](#events)|[§JMeter](#jmeter)
