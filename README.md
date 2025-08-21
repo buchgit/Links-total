@@ -143,7 +143,7 @@
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">Vanessa-Automation</span>
+### 🟠 Vanessa-Automation
 
 - [Домашняя страничка](https://pr-mex.github.io/vanessa-automation/dev/)
 - [Мануал, видосы от разработчиков](https://github.com/Pr-Mex/vanessa-automation/blob/develop/docs/MainHelp/index.MD)
