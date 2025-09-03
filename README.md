@@ -126,7 +126,7 @@
 
 [↑ К оглавлению](#links-total)
 
-### 🟠: EDT
+### 🟠: EDT https://github.com/buchgit/1C-courses
 
 - [plugins for EDT by IntelliJ Idea](https://skycorvette.com/knowledges/dccfd1f4-ef50-4242-8355-d62fb3675e13/)
 - [Мануал от edt.1c.ru](https://edt.1c.ru/dev/ru/)
@@ -134,6 +134,10 @@
 - [EDT API docs](https://edt.1c.ru/dev/edt/2023.1/apidocs/index.html)
 - [Мой репозиторий](https://github.com/buchgit/1C-Programming/tree/master/EDT)
 
+[↑ К оглавлению](#links-total)
+
+### 🟠: 1С-Курсы 
+- [Купленные,репозиторий](https://github.com/buchgit/1C-courses)
 [↑ К оглавлению](#links-total)
 
 ### 🟠: ODATA
