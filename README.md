@@ -257,7 +257,7 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§Telegram</span>
+### Telegram
 
 | Название | Ссылка |
 |---|---|
@@ -266,6 +266,7 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 | Пример на infostart | [Читать](https://infostart.ru/1c/articles/819087/) |
 | About Telegram bots | [Читать](https://core.telegram.org/bots) |
 | Мое по боту | [Читать]([https://core.telegram.org/bots](https://github.com/buchgit/1C-Programming/blob/master/Телеграм-бот/общее.md)) |
+|Телеграм репозиторий, fork, for java|[Перейти](https://github.com/buchgit/TelegramBots)
 
 [↑ К оглавлению](#links-total)
 
