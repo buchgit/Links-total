@@ -5,7 +5,7 @@
 |-|---|---|---|---|
 |1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)|---|---|[§PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
 |2|---|[§1С](https://github.com/buchgit/Links-total/blob/main/README.md#-1с-)|---|
-|3|[ИТС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-итс)|[ImageMagick](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-imagemagick)|[§KOTLIN](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-kotlin)|[PowerShell](https://github.com/buchgit/Links-total/blob/main/README.md#-powershell)
+|3|---|[ImageMagick](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-imagemagick)|[§KOTLIN](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-kotlin)|[PowerShell](https://github.com/buchgit/Links-total/blob/main/README.md#-powershell)
 |4|---|---|---|[§JMeter](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-jmeter)
 |5|[§ANDROID](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-android)|[§JAVA](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-java)|[§SPRING](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-spring)|[§DOCKER](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-docker)
 |6|[§Biotime](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-biotime)|[§Bitrix](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-bitrix)|[§Telegram](https://github.com/buchgit/Links-total/blob/main/README.md#telegram)|[GrayLog](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-graylog)
@@ -13,12 +13,12 @@
 |9||||
 |10||||
 
-### 1C
+## 💢 💲1С 💢:
 | Разделы | Разделы | Разделы | Разделы |
 |---|---|---|---|
 |[§EDT](https://github.com/buchgit/Links-total/blob/main/README.md#-edt)|[БСП (ssl)](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-бсп-ssl)|[§ODATA](https://github.com/buchgit/Links-total/blob/main/README.md#-odata)|[Vanessa-Automation](https://github.com/buchgit/Links-total/blob/main/README.md#-vanessa-automation)|
 |[Разное от 1С](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-разное-от-1с)|[Книги на ITS](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-книги-на-its)|[РЛС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-рлс)|[events](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-events)|
-|---|---|---|---|
+|[ИТС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-итс)|---|---|---|
 |---|---|---|---|
 |---|---|---|---|
 
@@ -47,7 +47,7 @@
 [↑ К оглавлению](#links-total)
 
 ---
-## 💢 💲1С 💢:
+
 ### :orange_circle: БСП (ssl)
 
 | Название | Ссылка |
