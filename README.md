@@ -5,7 +5,7 @@
 |-|---|---|---|---|
 |1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)|[§EDT](https://github.com/buchgit/Links-total/blob/main/README.md#-edt)|[БСП (ssl)](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-бсп-ssl)|[§PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
 |2|[§ODATA](https://github.com/buchgit/Links-total/blob/main/README.md#-odata)|[§1С](https://github.com/buchgit/Links-total/blob/main/README.md#-1с-)|[Vanessa-Automation](https://github.com/buchgit/Links-total/blob/main/README.md#-vanessa-automation)|[Разное от 1С](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-разное-от-1с)
-|3|[ИТС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-итс)|(https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-imagemagick)|[§KOTLIN](#kotlin)|[PowerShell](https://github.com/buchgit/Links-total/blob/main/README.md#-powershell)
+|3|[ИТС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-итс)|[ImageMagick](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-imagemagick)|[§KOTLIN](#kotlin)|[PowerShell](https://github.com/buchgit/Links-total/blob/main/README.md#-powershell)
 |4|[Книги на ITS](#книги-на-its)|[РЛС](#рлс)|[events](#events)|[§JMeter](#jmeter)
 |5|[§ANDROID](#android)|[§JAVA](#java)|[§SPRING](#spring)|[§DOCKER](#docker)
 |6|[§Biotime](#biotime)|[§Bitrix](#bitrix)|[§Telegram](#telegram)|[GrayLog](#graylog)
