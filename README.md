@@ -13,7 +13,7 @@
 |9||||
 |10||||
 
-## 💢 💲1С 💢:
+## :orange_circle: 1С :orange_circle:
 | Разделы | Разделы | Разделы | Разделы |
 |---|---|---|---|
 |[EDT](https://github.com/buchgit/Links-total/blob/main/README.md#-edt)|[БСП (ssl)](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-бсп-ssl)|[ODATA](https://github.com/buchgit/Links-total/blob/main/README.md#-odata)|[Vanessa-Automation](https://github.com/buchgit/Links-total/blob/main/README.md#-vanessa-automation)|
