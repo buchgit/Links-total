@@ -4,7 +4,7 @@
 |:+1:| Разделы                                    | Разделы                                    | Разделы                                     | Разделы                                    
 |-|---|---|---|---|
 |1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)|---|---|[PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
-|2|---|[1С](https://github.com/buchgit/Links-total/blob/main/README.md#-1с-)|---|
+|2|---|[1С](https://github.com/buchgit/Links-total/blob/main/README.md#wavy_dash-1с-wavy_dash)|---|
 |3|---|[ImageMagick](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-imagemagick)|[KOTLIN](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-kotlin)|[PowerShell](https://github.com/buchgit/Links-total/blob/main/README.md#-powershell)
 |4|---|---|---|[JMeter](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-jmeter)
 |5|[ANDROID](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-android)|[JAVA](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-java)|[SPRING](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-spring)|[DOCKER](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-docker)
