@@ -84,7 +84,7 @@
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #2C5FB8; font-size:1.5em; font-weight: bold;">РЛС</span>
+## :orange_circle: РЛС
 
 <details>
 <summary>Показать таблицу ссылок по РЛС</summary>
@@ -103,7 +103,7 @@
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #2C5FB8; font-size:1.5em; font-weight: bold;">events</span>
+## :orange_circle: events
 
 <details>
 <summary>Показать таблицу ссылок по events</summary>
@@ -186,7 +186,7 @@
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">Книги на ITS</span>
+## :orange_circle: Книги на ITS
 
 | Название | Ссылка |
 |---|---|
@@ -195,43 +195,43 @@
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§ImageMagick</span>
+## :orange_circle: §ImageMagick
 
 - [Установка, использование](https://github.com/buchgit/1C-Programming/blob/master/ImageMagick/Image-magick-all.md)
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§JMeter</span>
+## :orange_circle: §JMeter
 
 - [Как использовать JMeter](https://habr.com/ru/companies/otus/articles/746504/)
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§KOTLIN</span>
+## :orange_circle: §KOTLIN
 
 _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§ANDROID</span>
+## :orange_circle: §ANDROID
 
 _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§JAVA</span>
+## :orange_circle: §JAVA
 
 _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§SPRING</span>
+## :orange_circle: §SPRING
 
 _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§DOCKER</span>
+## :orange_circle: §DOCKER
 
 - [Установка на Ubuntu](https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script)
 
@@ -239,7 +239,7 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§Biotime</span>
+## :orange_circle: §Biotime
 
 | Название | Ссылка |
 |---|---|
@@ -251,7 +251,7 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">§Bitrix</span>
+## :orange_circle: §Bitrix
 
 | Название | Ссылка |
 |---|---|
@@ -275,13 +275,13 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">GrayLog</span>
+## :orange_circle: GrayLog
 
 - [Установка под Windows](https://virtuallyfun.com/2023/12/02/running-graylog-on-windows/)
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">CLAUDE AI</span>
+## :orange_circle: CLAUDE AI
 
 - [Видео как зарегистрироваться](https://yandex.ru/video/preview/14256637352485215779)
 
