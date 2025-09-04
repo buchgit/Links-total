@@ -155,7 +155,7 @@
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">Разное от 1С</span>
+## :orange_circle: Разное от 1С
 
 <details>
 <summary>Показать дополнительные ссылки</summary>
