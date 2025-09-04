@@ -8,7 +8,7 @@
 |3|[ИТС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-итс)|[ImageMagick](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-imagemagick)|[§KOTLIN](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-kotlin)|[PowerShell](https://github.com/buchgit/Links-total/blob/main/README.md#-powershell)
 |4|[Книги на ITS](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-книги-на-its)|[РЛС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-рлс)|[events](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-events)|[§JMeter](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-jmeter)
 |5|[§ANDROID](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-android)|[§JAVA](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-java)|[§SPRING](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-spring)|[§DOCKER](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-docker)
-|6|[§Biotime](#biotime)|[§Bitrix](#bitrix)|[§Telegram](#telegram)|[GrayLog](#graylog)
+|6|[§Biotime](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-biotime)|[§Bitrix](#bitrix)|[§Telegram](#telegram)|[GrayLog](#graylog)
 |7|[CLAUDE AI](#claude-ai)|[RabbitMQ](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-rabbitmq)||
 |9||||
 |10||||
