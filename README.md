@@ -172,7 +172,7 @@
 
 [↑ К оглавлению](#links-total)
 
-<span style="color: #E1AD01; font-size:2em; font-weight: bold;">PowerShell</span>
+### 🟠 PowerShell
 
 | Название | Ссылка |
 |---|---|
