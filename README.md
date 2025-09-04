@@ -39,7 +39,7 @@
 [↑ К оглавлению](#links-total)
 
 ---
-## :orange_circle: :orange_circle: 💲1С :orange_circle: :orange_circle:
+## 💢 💲1С 💢:
 ### :orange_circle: БСП (ssl)
 
 | Название | Ссылка |
