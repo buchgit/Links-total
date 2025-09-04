@@ -3,12 +3,12 @@
 
 |:+1:| Разделы                                    | Разделы                                    | Разделы                                     | Разделы                                    
 |-|---|---|---|---|
-|1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)|---|---|[§PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
-|2|---|[§1С](https://github.com/buchgit/Links-total/blob/main/README.md#-1с-)|---|
-|3|---|[ImageMagick](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-imagemagick)|[§KOTLIN](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-kotlin)|[PowerShell](https://github.com/buchgit/Links-total/blob/main/README.md#-powershell)
-|4|---|---|---|[§JMeter](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-jmeter)
-|5|[§ANDROID](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-android)|[§JAVA](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-java)|[§SPRING](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-spring)|[§DOCKER](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-docker)
-|6|[§Biotime](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-biotime)|[§Bitrix](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-bitrix)|[§Telegram](https://github.com/buchgit/Links-total/blob/main/README.md#telegram)|[GrayLog](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-graylog)
+|1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)|---|---|[PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
+|2|---|[1С](https://github.com/buchgit/Links-total/blob/main/README.md#-1с-)|---|
+|3|---|[ImageMagick](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-imagemagick)|[KOTLIN](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-kotlin)|[PowerShell](https://github.com/buchgit/Links-total/blob/main/README.md#-powershell)
+|4|---|---|---|[JMeter](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-jmeter)
+|5|[ANDROID](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-android)|[JAVA](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-java)|[SPRING](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-spring)|[DOCKER](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-docker)
+|6|[Biotime](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-biotime)|[Bitrix](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-bitrix)|[Telegram](https://github.com/buchgit/Links-total/blob/main/README.md#telegram)|[GrayLog](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-graylog)
 |7|[CLAUDE AI](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-claude-ai)|[RabbitMQ](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-rabbitmq)||
 |9||||
 |10||||
@@ -16,7 +16,7 @@
 ## 💢 💲1С 💢:
 | Разделы | Разделы | Разделы | Разделы |
 |---|---|---|---|
-|[§EDT](https://github.com/buchgit/Links-total/blob/main/README.md#-edt)|[БСП (ssl)](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-бсп-ssl)|[§ODATA](https://github.com/buchgit/Links-total/blob/main/README.md#-odata)|[Vanessa-Automation](https://github.com/buchgit/Links-total/blob/main/README.md#-vanessa-automation)|
+|[EDT](https://github.com/buchgit/Links-total/blob/main/README.md#-edt)|[БСП (ssl)](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-бсп-ssl)|[ODATA](https://github.com/buchgit/Links-total/blob/main/README.md#-odata)|[Vanessa-Automation](https://github.com/buchgit/Links-total/blob/main/README.md#-vanessa-automation)|
 |[Разное от 1С](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-разное-от-1с)|[Книги на ITS](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-книги-на-its)|[РЛС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-рлс)|[events](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-events)|
 |[ИТС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-итс)|---|---|---|
 |---|---|---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## :orange_circle: §PLANT UML
+## :orange_circle: PLANT UML
 
 | Название | Ссылка |
 |---|---|
@@ -203,43 +203,43 @@
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: §ImageMagick
+## :orange_circle: ImageMagick
 
 - [Установка, использование](https://github.com/buchgit/1C-Programming/blob/master/ImageMagick/Image-magick-all.md)
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: §JMeter
+## :orange_circle: JMeter
 
 - [Как использовать JMeter](https://habr.com/ru/companies/otus/articles/746504/)
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: §KOTLIN
+## :orange_circle: KOTLIN
 
 _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: §ANDROID
+## :orange_circle: ANDROID
 
 _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: §JAVA
+## :orange_circle: JAVA
 
 _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: §SPRING
+## :orange_circle: SPRING
 
 _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: §DOCKER
+## :orange_circle: DOCKER
 
 - [Установка на Ubuntu](https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script)
 
@@ -247,7 +247,7 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: §Biotime
+## :orange_circle: Biotime
 
 | Название | Ссылка |
 |---|---|
@@ -259,7 +259,7 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: §Bitrix
+## :orange_circle: Bitrix
 
 | Название | Ссылка |
 |---|---|
