@@ -22,7 +22,7 @@
 |---|---|---|---|
 |---|---|---|---|
 
-## :orange_circle: Полезное прочее
+## :wavy_dash: Полезное прочее
 | Файл         | Ссылка                          |
 |--------------|---------------------------------|
 | Полезное.md  | [Открыть](./Files/Полезное.md)  |
@@ -31,7 +31,7 @@
 
 ---
 
-## :orange_circle: PLANT UML
+## :wavy_dash: PLANT UML
 
 | Название | Ссылка |
 |---|---|
@@ -48,7 +48,7 @@
 
 ---
 
-### :orange_circle: БСП (ssl)
+### :wavy_dash: БСП (ssl)
 
 | Название | Ссылка |
 |---|---|
@@ -69,7 +69,7 @@
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: ИТС
+## :wavy_dash: ИТС
 
 | Название | Ссылка |
 |---|---|
@@ -92,7 +92,7 @@
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: РЛС
+## :wavy_dash: РЛС
 
 <details>
 <summary>Показать таблицу ссылок по РЛС</summary>
@@ -111,7 +111,7 @@
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: events
+## :wavy_dash: events
 
 <details>
 <summary>Показать таблицу ссылок по events</summary>
@@ -163,7 +163,7 @@
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: Разное от 1С
+## :wavy_dash: Разное от 1С
 
 <details>
 <summary>Показать дополнительные ссылки</summary>
@@ -194,7 +194,7 @@
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: Книги на ITS
+## :wavy_dash: Книги на ITS
 
 | Название | Ссылка |
 |---|---|
@@ -203,43 +203,43 @@
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: ImageMagick
+## :wavy_dash: ImageMagick
 
 - [Установка, использование](https://github.com/buchgit/1C-Programming/blob/master/ImageMagick/Image-magick-all.md)
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: JMeter
+## :wavy_dash: JMeter
 
 - [Как использовать JMeter](https://habr.com/ru/companies/otus/articles/746504/)
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: KOTLIN
+## :wavy_dash: KOTLIN
 
 _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: ANDROID
+## :wavy_dash: ANDROID
 
 _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: JAVA
+## :wavy_dash: JAVA
 
 _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: SPRING
+## :wavy_dash: SPRING
 
 _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: DOCKER
+## :wavy_dash: DOCKER
 
 - [Установка на Ubuntu](https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script)
 
@@ -247,7 +247,7 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: Biotime
+## :wavy_dash: Biotime
 
 | Название | Ссылка |
 |---|---|
@@ -259,7 +259,7 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: Bitrix
+## :wavy_dash: Bitrix
 
 | Название | Ссылка |
 |---|---|
@@ -270,7 +270,7 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-### :orange_circle: Telegram
+### :wavy_dash: Telegram
 
 | Название | Ссылка |
 |---|---|
@@ -283,19 +283,19 @@ _**Здесь пока пусто, добавьте свои ссылки!**_
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: GrayLog
+## :wavy_dash: GrayLog
 
 - [Установка под Windows](https://virtuallyfun.com/2023/12/02/running-graylog-on-windows/)
 
 [↑ К оглавлению](#links-total)
 
-## :orange_circle: CLAUDE AI
+## :wavy_dash: CLAUDE AI
 
 - [Видео как зарегистрироваться](https://yandex.ru/video/preview/14256637352485215779)
 
 [↑ К оглавлению](#links-total)
 
-### :orange_circle: RabbitMQ 
+### :wavy_dash: RabbitMQ 
 <span style="color: #E1AD01; font-size:2em; font-weight: bold;">RabbitMQ</span>
 - [Сайт, плагины](https://www.rabbitmq.com/docs/plugins#enabled-plugins-file)
 - [Моя страничка в репозитории](https://github.com/buchgit/1C-Programming/blob/master/RabbitMQ/links)
