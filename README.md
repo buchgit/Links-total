@@ -9,7 +9,7 @@
 |4|[Книги на ITS](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-книги-на-its)|[РЛС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-рлс)|[events](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-events)|[§JMeter](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-jmeter)
 |5|[§ANDROID](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-android)|[§JAVA](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-java)|[§SPRING](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-spring)|[§DOCKER](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-docker)
 |6|[§Biotime](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-biotime)|[§Bitrix](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-bitrix)|[§Telegram](https://github.com/buchgit/Links-total/blob/main/README.md#telegram)|[GrayLog](#graylog)
-|7|[CLAUDE AI](#claude-ai)|[RabbitMQ](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-rabbitmq)||
+|7|[CLAUDE AI](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-claude-ai)|[RabbitMQ](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-rabbitmq)||
 |9||||
 |10||||
 
