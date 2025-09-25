@@ -18,7 +18,7 @@
 |---|---|---|---|
 |[EDT](https://github.com/buchgit/Links-total/blob/main/README.md#-edt)|[БСП (ssl)](https://github.com/buchgit/Links-total/blob/main/README.md#wavy_dash-бсп-ssl)|[ODATA](https://github.com/buchgit/Links-total/blob/main/README.md#-odata)|[Vanessa-Automation](https://github.com/buchgit/Links-total/blob/main/README.md#-vanessa-automation)|
 |[Разное от 1С](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-разное-от-1с)|[Книги на ITS](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-книги-на-its)|[РЛС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-рлс)|[events](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-events)|
-|[ИТС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-итс)|---|---|---|
+|[ИТС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-итс)|[ERP]()|---|---|
 |---|---|---|---|
 |---|---|---|---|
 
@@ -90,6 +90,13 @@
 |:+1:Методические рекомендации по конфигурированию|[Читать](https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3224:3226)|
 | Структура баз, таблицы | [Читать](https://its.1c.ru/db/metod8dev/content/1591/hdoc)|
 
+[↑ К оглавлению](#links-total)
+
+## :wavy_dash: ERP
+| Название | Ссылка |
+|---|---|
+|Расчет себестоимости, Внедрение| [infostart](https://infostart.ru/pm/2443205/) |
+|---|---|
 [↑ К оглавлению](#links-total)
 
 ## :wavy_dash: РЛС
