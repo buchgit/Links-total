@@ -99,6 +99,13 @@
 |Расчет себестоимости|[итс](https://v8.1c.ru/erp/cost_management/)|
 [↑ К оглавлению](#links-total)
 
+## :wavy_dash: SonarQube
+| Название | Ссылка |
+|---|---|
+|Развертывание| [infostart](https://infostart.ru/1c/articles/1089670/) |
+|Развертывание|[мой вариант](https://github.com/buchgit/1C-Programming/blob/master/SonarQube/how-install.md))|
+[↑ К оглавлению](#links-total)
+
 ## :wavy_dash: РЛС
 
 <details>
