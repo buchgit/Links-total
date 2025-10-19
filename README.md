@@ -89,6 +89,7 @@
 | БСП (SSL) | [Читать](https://its.1c.ru/db/bsp319doc) |
 |:+1:Методические рекомендации по конфигурированию|[Читать](https://its.1c.ru/db/metod8dev#browse:13:-1:3199:3224:3226)|
 | Структура баз, таблицы | [Читать](https://its.1c.ru/db/metod8dev/content/1591/hdoc)|
+| Приложение 3, описание служ. файлов 1С | [Читать](https://its.1c.ru/db/v8321doc#bookmark:adm:TI000000365)|
 
 [↑ К оглавлению](#links-total)
 
