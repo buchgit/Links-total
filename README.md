@@ -18,7 +18,7 @@
 |---|---|---|---|
 |[EDT](https://github.com/buchgit/Links-total/blob/main/README.md#-edt)|[БСП (ssl)](https://github.com/buchgit/Links-total/blob/main/README.md#wavy_dash-бсп-ssl)|[ODATA](https://github.com/buchgit/Links-total/blob/main/README.md#-odata)|[Vanessa-Automation](https://github.com/buchgit/Links-total/blob/main/README.md#-vanessa-automation)|
 |[Разное от 1С](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-разное-от-1с)|[Книги на ITS](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-книги-на-its)|[РЛС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-рлс)|[events](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-events)|
-|[ИТС](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-итс)|[ERP](https://github.com/buchgit/Links-total/blob/main/README.md#wavy_dash-erp)|[SonarQube](https://github.com/buchgit/Links-total/blob/main/README.md#wavy_dash-sonarqube)|---|
+|[ИТС](https://github.com/buchgit/Links-total/blob/main/README.md#wavy_dash-итс)|[ERP](https://github.com/buchgit/Links-total/blob/main/README.md#wavy_dash-erp)|[SonarQube](https://github.com/buchgit/Links-total/blob/main/README.md#wavy_dash-sonarqube)|---|
 |---|---|---|---|
 |---|---|---|---|
 
