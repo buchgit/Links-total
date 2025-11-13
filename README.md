@@ -3,7 +3,7 @@
 
 |:+1:| Разделы                                    | Разделы                                    | Разделы                                     | Разделы                                    
 |-|---|---|---|---|
-|1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-полезное-прочее)|[Cursor](https://github.com/buchgit/Links-total/blob/main/README.md#wavy_dash-cursor-wavy_dash)|---|[PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
+|1|[Полезное прочее](https://github.com/buchgit/Links-total/blob/main/README.md#wavy_dash-полезное-прочее)|[Cursor](https://github.com/buchgit/Links-total/blob/main/README.md#wavy_dash-cursor-wavy_dash)|---|[PLANT UML](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-plant-uml)
 |2|---|[1С](https://github.com/buchgit/Links-total/blob/main/README.md#wavy_dash-1с-wavy_dash)|---|
 |3|---|[ImageMagick](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-imagemagick)|[KOTLIN](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-kotlin)|[PowerShell](https://github.com/buchgit/Links-total/blob/main/README.md#-powershell)
 |4|---|---|---|[JMeter](https://github.com/buchgit/Links-total/blob/main/README.md#orange_circle-jmeter)
